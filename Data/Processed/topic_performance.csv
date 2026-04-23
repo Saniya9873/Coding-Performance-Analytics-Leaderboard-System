@@ -1,0 +1,6142 @@
+user_id,topic,solved_count
+S001,Array,36
+S001,Binary Search,1
+S001,Database,11
+S001,Depth-First Search,1
+S001,Dynamic Programming,2
+S001,Graph,1
+S001,Hash Table,8
+S001,Math,7
+S001,Stack,1
+S001,String,5
+S001,Tree,4
+S001,Two Pointers,2
+S001,nan,3
+S002,Array,43
+S002,Backtracking,1
+S002,Breadth-First Search,1
+S002,Database,6
+S002,Depth-First Search,1
+S002,Hash Table,3
+S002,Linked List,1
+S002,Math,9
+S002,Stack,1
+S002,String,5
+S002,Tree,2
+S002,Two Pointers,3
+S002,nan,3
+S003,Array,50
+S003,Backtracking,1
+S003,Binary Search,1
+S003,Database,7
+S003,Depth-First Search,1
+S003,Dynamic Programming,1
+S003,Hash Table,7
+S003,Linked List,1
+S003,Math,8
+S003,String,7
+S003,Tree,1
+S003,Two Pointers,2
+S003,nan,4
+S004,Array,67
+S004,Database,7
+S004,Design,1
+S004,Dynamic Programming,2
+S004,Hash Table,7
+S004,Linked List,2
+S004,Math,7
+S004,String,10
+S004,Tree,4
+S004,Two Pointers,3
+S005,Array,53
+S005,Bit Manipulation,1
+S005,Concurrency,2
+S005,Database,12
+S005,Design,1
+S005,Hash Table,4
+S005,Math,8
+S005,Shell,1
+S005,Stack,1
+S005,String,9
+S005,Tree,1
+S005,Two Pointers,5
+S005,nan,2
+S006,Array,54
+S006,Bit Manipulation,1
+S006,Database,15
+S006,Hash Table,5
+S006,Math,7
+S006,Stack,1
+S006,String,9
+S006,Tree,5
+S006,Two Pointers,1
+S006,nan,1
+S007,Array,58
+S007,Database,9
+S007,Design,1
+S007,Dynamic Programming,1
+S007,Hash Table,6
+S007,Linked List,2
+S007,Math,9
+S007,String,12
+S007,Tree,3
+S007,nan,4
+S008,Array,57
+S008,Bit Manipulation,1
+S008,Database,10
+S008,Dynamic Programming,4
+S008,Hash Table,6
+S008,Linked List,5
+S008,Math,5
+S008,Stack,1
+S008,String,10
+S008,Tree,4
+S008,Two Pointers,5
+S008,nan,5
+S009,Array,30
+S009,Bit Manipulation,1
+S009,Database,8
+S009,Depth-First Search,1
+S009,Hash Table,5
+S009,Linked List,1
+S009,Math,6
+S009,String,8
+S009,Tree,2
+S009,Two Pointers,2
+S009,nan,2
+S010,Array,38
+S010,Bit Manipulation,1
+S010,Database,12
+S010,Dynamic Programming,1
+S010,Hash Table,4
+S010,Math,3
+S010,Stack,1
+S010,String,5
+S010,Tree,1
+S010,Two Pointers,1
+S010,nan,2
+S011,Array,45
+S011,Binary Search,2
+S011,Database,6
+S011,Dynamic Programming,2
+S011,Hash Table,4
+S011,Linked List,2
+S011,Math,2
+S011,Stack,1
+S011,String,8
+S011,Tree,3
+S011,nan,4
+S012,Array,55
+S012,Binary Search,1
+S012,Database,5
+S012,Dynamic Programming,1
+S012,Hash Table,5
+S012,Linked List,1
+S012,Math,9
+S012,Stack,1
+S012,String,10
+S012,Tree,4
+S012,Two Pointers,2
+S012,nan,3
+S013,Array,52
+S013,Binary Search,1
+S013,Bit Manipulation,1
+S013,Database,8
+S013,Depth-First Search,2
+S013,Hash Table,6
+S013,Linked List,1
+S013,Math,9
+S013,Stack,1
+S013,String,9
+S013,Tree,1
+S013,Two Pointers,2
+S013,nan,2
+S014,Array,52
+S014,Bit Manipulation,1
+S014,Database,12
+S014,Depth-First Search,1
+S014,Design,1
+S014,Dynamic Programming,1
+S014,Hash Table,6
+S014,Linked List,2
+S014,Math,11
+S014,Shell,1
+S014,String,3
+S014,Tree,3
+S014,Two Pointers,1
+S014,nan,4
+S015,Array,58
+S015,Backtracking,1
+S015,Binary Search,1
+S015,Bit Manipulation,1
+S015,Database,15
+S015,Dynamic Programming,1
+S015,Hash Table,7
+S015,Math,4
+S015,Shell,1
+S015,Stack,2
+S015,String,9
+S015,Tree,4
+S015,Two Pointers,2
+S015,nan,2
+S016,Array,51
+S016,Binary Search,1
+S016,Database,5
+S016,Depth-First Search,1
+S016,Dynamic Programming,2
+S016,Graph,1
+S016,Hash Table,6
+S016,Math,6
+S016,String,8
+S016,Tree,1
+S016,Two Pointers,1
+S016,nan,1
+S017,Array,58
+S017,Binary Search,1
+S017,Database,11
+S017,Dynamic Programming,2
+S017,Hash Table,5
+S017,Linked List,1
+S017,Math,13
+S017,Stack,1
+S017,String,13
+S017,Tree,2
+S017,nan,2
+S018,Array,54
+S018,Bit Manipulation,2
+S018,Database,13
+S018,Depth-First Search,2
+S018,Design,1
+S018,Dynamic Programming,3
+S018,Graph,1
+S018,Hash Table,6
+S018,Linked List,1
+S018,Math,18
+S018,Shell,1
+S018,Stack,1
+S018,String,10
+S018,Tree,2
+S018,Two Pointers,1
+S018,nan,4
+S019,Array,64
+S019,Database,6
+S019,Depth-First Search,1
+S019,Design,1
+S019,Hash Table,7
+S019,Linked List,1
+S019,Math,7
+S019,String,6
+S019,Tree,6
+S019,nan,5
+S020,Array,55
+S020,Binary Search,1
+S020,Bit Manipulation,1
+S020,Database,10
+S020,Dynamic Programming,2
+S020,Hash Table,7
+S020,Linked List,1
+S020,Math,10
+S020,Shell,1
+S020,Stack,1
+S020,String,10
+S020,Tree,5
+S020,Two Pointers,1
+S020,nan,3
+S021,Array,53
+S021,Database,9
+S021,Dynamic Programming,1
+S021,Hash Table,9
+S021,Linked List,1
+S021,Math,15
+S021,String,15
+S021,Tree,6
+S021,Two Pointers,1
+S021,nan,4
+S022,Array,74
+S022,Database,11
+S022,Dynamic Programming,3
+S022,Hash Table,14
+S022,Linked List,1
+S022,Math,11
+S022,String,6
+S022,Tree,4
+S022,nan,4
+S023,Array,50
+S023,Backtracking,1
+S023,Bit Manipulation,2
+S023,Database,9
+S023,Depth-First Search,1
+S023,Dynamic Programming,1
+S023,Graph,1
+S023,Hash Table,6
+S023,Math,12
+S023,String,4
+S023,Tree,4
+S023,Two Pointers,2
+S023,nan,4
+S024,Array,44
+S024,Binary Search,1
+S024,Database,13
+S024,Dynamic Programming,2
+S024,Hash Table,7
+S024,Linked List,1
+S024,Math,8
+S024,Shell,1
+S024,String,9
+S024,Tree,3
+S024,Two Pointers,3
+S024,nan,4
+S025,Array,39
+S025,Binary Search,1
+S025,Bit Manipulation,3
+S025,Database,8
+S025,Hash Table,11
+S025,Linked List,1
+S025,Math,7
+S025,Shell,1
+S025,Sorting,1
+S025,Stack,2
+S025,String,4
+S025,Tree,2
+S025,Two Pointers,1
+S025,nan,7
+S026,Array,45
+S026,Database,8
+S026,Dynamic Programming,2
+S026,Hash Table,4
+S026,Linked List,2
+S026,Math,14
+S026,String,10
+S026,Tree,2
+S026,Two Pointers,3
+S026,nan,2
+S027,Array,76
+S027,Bit Manipulation,2
+S027,Database,7
+S027,Dynamic Programming,3
+S027,Graph,1
+S027,Hash Table,7
+S027,Linked List,1
+S027,Math,6
+S027,Stack,1
+S027,String,9
+S027,Tree,4
+S027,nan,3
+S028,Array,47
+S028,Bit Manipulation,1
+S028,Database,12
+S028,Hash Table,7
+S028,Linked List,2
+S028,Math,10
+S028,String,9
+S028,Tree,1
+S028,Two Pointers,7
+S028,nan,2
+S029,Array,37
+S029,Binary Search,3
+S029,Bit Manipulation,2
+S029,Database,5
+S029,Depth-First Search,3
+S029,Design,1
+S029,Divide and Conquer,1
+S029,Dynamic Programming,1
+S029,Hash Table,6
+S029,Linked List,1
+S029,Math,5
+S029,Stack,1
+S029,String,2
+S029,Tree,4
+S029,nan,1
+S030,Array,35
+S030,Backtracking,1
+S030,Database,8
+S030,Dynamic Programming,1
+S030,Hash Table,4
+S030,Linked List,1
+S030,Math,7
+S030,String,4
+S030,Tree,1
+S030,nan,2
+S031,Array,35
+S031,Binary Search,1
+S031,Database,9
+S031,Design,1
+S031,Hash Table,3
+S031,Linked List,1
+S031,Math,11
+S031,Stack,2
+S031,String,5
+S031,Tree,4
+S031,Trie,1
+S031,Two Pointers,3
+S031,nan,2
+S032,Array,51
+S032,Database,7
+S032,Design,1
+S032,Dynamic Programming,2
+S032,Enumeration,1
+S032,Hash Table,6
+S032,Math,7
+S032,String,6
+S032,Tree,2
+S032,Two Pointers,4
+S032,nan,3
+S033,Array,32
+S033,Database,5
+S033,Divide and Conquer,1
+S033,Graph,1
+S033,Hash Table,4
+S033,Linked List,2
+S033,Math,6
+S033,Stack,1
+S033,String,6
+S033,Tree,2
+S033,nan,3
+S034,Array,49
+S034,Bit Manipulation,1
+S034,Concurrency,1
+S034,Database,11
+S034,Depth-First Search,2
+S034,Divide and Conquer,1
+S034,Dynamic Programming,2
+S034,Graph,1
+S034,Hash Table,3
+S034,Linked List,3
+S034,Math,5
+S034,Shell,1
+S034,Stack,1
+S034,String,20
+S034,Tree,4
+S034,Two Pointers,3
+S034,nan,3
+S035,Array,29
+S035,Database,9
+S035,Depth-First Search,1
+S035,Dynamic Programming,1
+S035,Hash Table,5
+S035,Linked List,1
+S035,Math,10
+S035,Shell,1
+S035,String,14
+S035,Tree,1
+S035,Two Pointers,1
+S035,nan,5
+S036,Array,38
+S036,Binary Search,1
+S036,Database,7
+S036,Divide and Conquer,1
+S036,Dynamic Programming,2
+S036,Graph,1
+S036,Hash Table,9
+S036,Math,6
+S036,Shell,1
+S036,String,5
+S036,Tree,2
+S036,Two Pointers,1
+S036,nan,5
+S037,Array,62
+S037,Database,12
+S037,Depth-First Search,1
+S037,Dynamic Programming,1
+S037,Graph,1
+S037,Hash Table,8
+S037,Linked List,2
+S037,Math,8
+S037,Stack,4
+S037,String,8
+S037,Tree,7
+S037,Two Pointers,2
+S037,nan,5
+S038,Array,53
+S038,Backtracking,2
+S038,Database,5
+S038,Dynamic Programming,2
+S038,Hash Table,5
+S038,Linked List,1
+S038,Math,6
+S038,String,7
+S038,Tree,1
+S038,Two Pointers,2
+S038,nan,1
+S039,Array,48
+S039,Bit Manipulation,1
+S039,Database,13
+S039,Dynamic Programming,1
+S039,Hash Table,4
+S039,Math,6
+S039,String,2
+S039,Tree,3
+S039,Two Pointers,3
+S039,nan,1
+S040,Array,37
+S040,Backtracking,1
+S040,Concurrency,1
+S040,Database,10
+S040,Depth-First Search,1
+S040,Dynamic Programming,1
+S040,Hash Table,9
+S040,Linked List,2
+S040,Math,6
+S040,Stack,1
+S040,String,6
+S040,Tree,7
+S040,Two Pointers,1
+S040,nan,1
+S041,Array,31
+S041,Database,8
+S041,Depth-First Search,1
+S041,Dynamic Programming,1
+S041,Graph,1
+S041,Hash Table,8
+S041,Math,3
+S041,String,12
+S041,Tree,3
+S041,nan,4
+S042,Array,32
+S042,Database,7
+S042,Dynamic Programming,1
+S042,Hash Table,3
+S042,Linked List,2
+S042,Math,11
+S042,String,15
+S042,Tree,1
+S042,Two Pointers,1
+S042,nan,1
+S043,Array,47
+S043,Binary Search,1
+S043,Breadth-First Search,1
+S043,Database,6
+S043,Depth-First Search,2
+S043,Divide and Conquer,1
+S043,Dynamic Programming,2
+S043,Hash Table,9
+S043,Linked List,1
+S043,Math,8
+S043,String,10
+S043,Tree,1
+S043,Two Pointers,1
+S043,nan,6
+S044,Array,47
+S044,Binary Search,1
+S044,Database,8
+S044,Dynamic Programming,1
+S044,Hash Table,6
+S044,Linked List,1
+S044,Math,8
+S044,Stack,1
+S044,String,7
+S044,Tree,3
+S044,Two Pointers,4
+S044,nan,2
+S045,Array,57
+S045,Database,9
+S045,Divide and Conquer,1
+S045,Dynamic Programming,1
+S045,Graph,1
+S045,Hash Table,5
+S045,Linked List,5
+S045,Math,11
+S045,String,12
+S045,Tree,4
+S045,Two Pointers,1
+S045,nan,3
+S046,Array,59
+S046,Concurrency,1
+S046,Database,10
+S046,Depth-First Search,1
+S046,Dynamic Programming,1
+S046,Graph,1
+S046,Hash Table,7
+S046,Linked List,4
+S046,Math,8
+S046,Stack,1
+S046,Tree,3
+S046,Two Pointers,1
+S046,nan,5
+S047,Array,43
+S047,Binary Search,1
+S047,Bit Manipulation,2
+S047,Database,7
+S047,Depth-First Search,2
+S047,Dynamic Programming,1
+S047,Graph,1
+S047,Hash Table,5
+S047,Linked List,2
+S047,Math,10
+S047,String,8
+S047,Tree,1
+S047,Two Pointers,3
+S047,nan,1
+S048,Array,41
+S048,Binary Search,1
+S048,Bit Manipulation,1
+S048,Breadth-First Search,1
+S048,Database,9
+S048,Depth-First Search,1
+S048,Design,1
+S048,Dynamic Programming,1
+S048,Hash Table,2
+S048,Math,8
+S048,Stack,1
+S048,String,9
+S048,Tree,4
+S048,Two Pointers,2
+S048,nan,2
+S049,Array,37
+S049,Binary Search,1
+S049,Bit Manipulation,1
+S049,Database,8
+S049,Hash Table,4
+S049,Linked List,1
+S049,Math,8
+S049,String,5
+S049,Tree,3
+S049,Two Pointers,4
+S049,nan,2
+S050,Array,49
+S050,Bit Manipulation,1
+S050,Database,7
+S050,Depth-First Search,2
+S050,Design,1
+S050,Dynamic Programming,1
+S050,Graph,2
+S050,Hash Table,4
+S050,Math,11
+S050,String,9
+S050,Tree,2
+S050,Two Pointers,1
+S050,nan,5
+S051,Array,60
+S051,Backtracking,1
+S051,Database,9
+S051,Depth-First Search,1
+S051,Dynamic Programming,1
+S051,Greedy,2
+S051,Hash Table,6
+S051,Linked List,3
+S051,Math,9
+S051,String,18
+S051,Tree,1
+S051,Two Pointers,2
+S051,nan,6
+S052,Array,41
+S052,Binary Search,1
+S052,Concurrency,1
+S052,Database,14
+S052,Depth-First Search,1
+S052,Hash Table,6
+S052,Math,11
+S052,Stack,1
+S052,String,4
+S052,Tree,2
+S052,Two Pointers,2
+S052,nan,2
+S053,Array,51
+S053,Concurrency,1
+S053,Database,10
+S053,Dynamic Programming,1
+S053,Hash Table,5
+S053,Linked List,2
+S053,Math,5
+S053,Stack,1
+S053,String,14
+S053,Two Pointers,2
+S053,nan,2
+S054,Array,50
+S054,Binary Search,1
+S054,Database,10
+S054,Dynamic Programming,1
+S054,Hash Table,3
+S054,Linked List,2
+S054,Math,11
+S054,Shell,1
+S054,String,5
+S054,Tree,1
+S054,Two Pointers,1
+S054,nan,5
+S055,Array,74
+S055,Backtracking,1
+S055,Bit Manipulation,1
+S055,Database,12
+S055,Dynamic Programming,1
+S055,Hash Table,3
+S055,Linked List,2
+S055,Math,7
+S055,String,3
+S055,Tree,4
+S055,Two Pointers,1
+S055,nan,3
+S056,Array,52
+S056,Backtracking,1
+S056,Binary Search,1
+S056,Database,7
+S056,Dynamic Programming,2
+S056,Hash Table,5
+S056,Linked List,3
+S056,Math,8
+S056,String,7
+S056,Tree,1
+S056,nan,2
+S057,Array,44
+S057,Backtracking,1
+S057,Bit Manipulation,1
+S057,Concurrency,1
+S057,Database,7
+S057,Dynamic Programming,2
+S057,Graph,1
+S057,Hash Table,8
+S057,Linked List,2
+S057,Math,6
+S057,Stack,1
+S057,String,2
+S057,Tree,4
+S057,Two Pointers,3
+S058,Array,52
+S058,Binary Search,1
+S058,Database,8
+S058,Divide and Conquer,1
+S058,Graph,1
+S058,Hash Table,7
+S058,Linked List,2
+S058,Math,4
+S058,String,7
+S058,Tree,2
+S058,Two Pointers,1
+S058,Union Find,1
+S059,Array,33
+S059,Binary Search,1
+S059,Database,9
+S059,Depth-First Search,1
+S059,Graph,1
+S059,Hash Table,5
+S059,Linked List,1
+S059,Math,8
+S059,Stack,1
+S059,String,4
+S059,Tree,3
+S059,Two Pointers,1
+S059,nan,5
+S060,Array,63
+S060,Bit Manipulation,2
+S060,Database,7
+S060,Depth-First Search,2
+S060,Dynamic Programming,3
+S060,Hash Table,3
+S060,Linked List,1
+S060,Math,9
+S060,Shell,1
+S060,Stack,2
+S060,String,4
+S060,Tree,1
+S060,Two Pointers,3
+S060,Union Find,1
+S060,nan,3
+S061,Array,62
+S061,Binary Search,1
+S061,Bit Manipulation,1
+S061,Database,10
+S061,Dynamic Programming,2
+S061,Hash Table,10
+S061,Math,10
+S061,Stack,1
+S061,String,14
+S061,Tree,4
+S061,Two Pointers,5
+S061,nan,2
+S062,Array,42
+S062,Concurrency,1
+S062,Database,10
+S062,Design,1
+S062,Dynamic Programming,2
+S062,Hash Table,6
+S062,Math,7
+S062,Stack,1
+S062,String,2
+S062,Tree,4
+S062,nan,2
+S063,Array,42
+S063,Database,7
+S063,Hash Table,9
+S063,Linked List,4
+S063,Math,3
+S063,Stack,2
+S063,String,11
+S063,Tree,4
+S063,Two Pointers,3
+S063,nan,1
+S064,Array,46
+S064,Database,11
+S064,Depth-First Search,1
+S064,Dynamic Programming,2
+S064,Graph,1
+S064,Hash Table,10
+S064,Linked List,2
+S064,Math,9
+S064,String,3
+S064,Tree,4
+S064,Two Pointers,2
+S064,nan,7
+S065,Array,43
+S065,Database,8
+S065,Divide and Conquer,1
+S065,Dynamic Programming,1
+S065,Hash Table,6
+S065,Linked List,3
+S065,Math,13
+S065,String,10
+S065,Tree,5
+S065,Two Pointers,2
+S065,nan,7
+S066,Array,56
+S066,Database,13
+S066,Depth-First Search,2
+S066,Dynamic Programming,2
+S066,Hash Table,11
+S066,Linked List,2
+S066,Math,9
+S066,Stack,1
+S066,String,11
+S066,Tree,4
+S066,Union Find,1
+S067,Array,38
+S067,Bit Manipulation,1
+S067,Concurrency,1
+S067,Database,3
+S067,Dynamic Programming,2
+S067,Hash Table,6
+S067,Math,4
+S067,String,5
+S067,Tree,3
+S067,Two Pointers,3
+S067,nan,3
+S068,Array,43
+S068,Bit Manipulation,2
+S068,Database,7
+S068,Dynamic Programming,1
+S068,Hash Table,8
+S068,Math,9
+S068,Stack,2
+S068,String,9
+S068,Tree,4
+S068,Two Pointers,1
+S068,nan,3
+S069,Array,55
+S069,Database,12
+S069,Divide and Conquer,1
+S069,Dynamic Programming,1
+S069,Enumeration,1
+S069,Hash Table,11
+S069,Math,10
+S069,String,4
+S069,Tree,5
+S069,Two Pointers,2
+S069,nan,5
+S070,Array,65
+S070,Binary Search,1
+S070,Bit Manipulation,1
+S070,Database,10
+S070,Depth-First Search,1
+S070,Divide and Conquer,1
+S070,Hash Table,6
+S070,Linked List,4
+S070,Math,7
+S070,String,8
+S070,Tree,2
+S070,Two Pointers,2
+S070,nan,3
+S071,Array,46
+S071,Backtracking,1
+S071,Database,10
+S071,Design,1
+S071,Dynamic Programming,1
+S071,Hash Table,10
+S071,Math,10
+S071,Stack,3
+S071,String,6
+S071,Tree,5
+S071,Two Pointers,1
+S071,nan,1
+S072,Array,59
+S072,Binary Search,1
+S072,Concurrency,1
+S072,Database,12
+S072,Dynamic Programming,1
+S072,Graph,2
+S072,Hash Table,3
+S072,Math,7
+S072,Stack,1
+S072,String,7
+S072,Tree,3
+S072,Two Pointers,1
+S072,nan,5
+S073,Array,38
+S073,Binary Search,1
+S073,Bit Manipulation,1
+S073,Database,5
+S073,Divide and Conquer,1
+S073,Hash Table,8
+S073,Linked List,1
+S073,Math,11
+S073,Stack,1
+S073,String,3
+S073,Tree,1
+S073,Two Pointers,2
+S074,Array,67
+S074,Bit Manipulation,1
+S074,Concurrency,1
+S074,Database,12
+S074,Dynamic Programming,4
+S074,Enumeration,1
+S074,Graph,1
+S074,Hash Table,7
+S074,Linked List,2
+S074,Math,8
+S074,String,15
+S074,Tree,2
+S074,Two Pointers,2
+S074,nan,4
+S075,Array,32
+S075,Database,13
+S075,Depth-First Search,2
+S075,Hash Table,5
+S075,Math,7
+S075,String,5
+S075,Tree,4
+S075,Two Pointers,3
+S075,nan,1
+S076,Array,44
+S076,Bit Manipulation,2
+S076,Concurrency,1
+S076,Database,7
+S076,Depth-First Search,2
+S076,Design,1
+S076,Divide and Conquer,1
+S076,Dynamic Programming,1
+S076,Hash Table,6
+S076,Linked List,1
+S076,Math,4
+S076,Stack,1
+S076,String,6
+S076,Tree,3
+S076,Two Pointers,1
+S076,nan,3
+S077,Array,48
+S077,Database,9
+S077,Design,2
+S077,Dynamic Programming,1
+S077,Graph,1
+S077,Hash Table,8
+S077,Linked List,1
+S077,Math,10
+S077,String,11
+S077,Tree,2
+S077,Two Pointers,3
+S077,nan,2
+S078,Array,54
+S078,Concurrency,1
+S078,Database,6
+S078,Design,1
+S078,Enumeration,1
+S078,Hash Table,6
+S078,Linked List,2
+S078,Math,11
+S078,Shell,1
+S078,String,4
+S078,Tree,3
+S078,Two Pointers,1
+S078,Union Find,1
+S078,nan,2
+S079,Array,63
+S079,Database,7
+S079,Dynamic Programming,2
+S079,Hash Table,8
+S079,Linked List,1
+S079,Math,10
+S079,String,10
+S079,Tree,2
+S079,Two Pointers,1
+S079,nan,5
+S080,Array,40
+S080,Binary Search,1
+S080,Database,8
+S080,Dynamic Programming,1
+S080,Graph,1
+S080,Hash Table,4
+S080,Linked List,1
+S080,Math,12
+S080,String,7
+S080,Tree,4
+S080,Two Pointers,2
+S080,nan,3
+S081,Array,54
+S081,Bit Manipulation,3
+S081,Database,5
+S081,Depth-First Search,1
+S081,Dynamic Programming,2
+S081,Hash Table,6
+S081,Linked List,1
+S081,Math,11
+S081,String,9
+S081,Tree,4
+S081,Two Pointers,1
+S081,nan,7
+S082,Array,37
+S082,Backtracking,1
+S082,Database,6
+S082,Dynamic Programming,1
+S082,Graph,1
+S082,Hash Table,3
+S082,Linked List,3
+S082,Math,9
+S082,String,12
+S082,Tree,1
+S082,nan,5
+S083,Array,42
+S083,Database,7
+S083,Dynamic Programming,1
+S083,Hash Table,2
+S083,Linked List,1
+S083,Math,9
+S083,Stack,1
+S083,String,14
+S083,Tree,3
+S083,Two Pointers,3
+S083,Union Find,1
+S083,nan,9
+S084,Array,55
+S084,Bit Manipulation,2
+S084,Database,7
+S084,Depth-First Search,1
+S084,Graph,1
+S084,Hash Table,4
+S084,Linked List,2
+S084,Math,7
+S084,Stack,1
+S084,String,4
+S084,Tree,2
+S084,Two Pointers,3
+S084,nan,2
+S085,Array,47
+S085,Bit Manipulation,2
+S085,Concurrency,1
+S085,Database,10
+S085,Depth-First Search,1
+S085,Dynamic Programming,1
+S085,Hash Table,2
+S085,Linked List,2
+S085,Math,6
+S085,String,4
+S085,Tree,1
+S085,nan,1
+S086,Array,61
+S086,Binary Search,1
+S086,Bit Manipulation,2
+S086,Breadth-First Search,2
+S086,Database,8
+S086,Dynamic Programming,2
+S086,Graph,1
+S086,Hash Table,13
+S086,Linked List,1
+S086,Math,9
+S086,Stack,3
+S086,String,9
+S086,Tree,2
+S086,Two Pointers,2
+S086,nan,2
+S087,Array,62
+S087,Concurrency,1
+S087,Database,12
+S087,Dynamic Programming,2
+S087,Hash Table,9
+S087,Linked List,1
+S087,Math,6
+S087,String,14
+S087,Tree,5
+S087,Two Pointers,2
+S087,nan,4
+S088,Array,57
+S088,Binary Search,1
+S088,Bit Manipulation,3
+S088,Database,16
+S088,Design,1
+S088,Divide and Conquer,1
+S088,Dynamic Programming,2
+S088,Hash Table,6
+S088,Linked List,1
+S088,Math,10
+S088,String,7
+S088,Tree,4
+S088,Two Pointers,3
+S088,nan,4
+S089,Array,55
+S089,Binary Search,2
+S089,Breadth-First Search,1
+S089,Database,11
+S089,Dynamic Programming,1
+S089,Hash Table,7
+S089,Math,7
+S089,Shell,1
+S089,Stack,1
+S089,String,6
+S089,Tree,3
+S089,Two Pointers,2
+S089,nan,4
+S090,Array,45
+S090,Database,8
+S090,Design,1
+S090,Dynamic Programming,2
+S090,Graph,1
+S090,Hash Table,12
+S090,Math,9
+S090,String,1
+S090,Tree,3
+S090,Two Pointers,1
+S090,nan,6
+S091,Array,57
+S091,Backtracking,1
+S091,Bit Manipulation,1
+S091,Database,5
+S091,Dynamic Programming,2
+S091,Hash Table,6
+S091,Math,12
+S091,String,12
+S091,Tree,3
+S091,Two Pointers,4
+S091,nan,3
+S092,Array,75
+S092,Bit Manipulation,1
+S092,Breadth-First Search,2
+S092,Database,10
+S092,Depth-First Search,1
+S092,Dynamic Programming,1
+S092,Graph,1
+S092,Hash Table,9
+S092,Linked List,2
+S092,Math,5
+S092,Shell,1
+S092,Stack,1
+S092,String,9
+S092,Tree,4
+S092,nan,5
+S093,Array,63
+S093,Database,3
+S093,Depth-First Search,2
+S093,Hash Table,7
+S093,Math,12
+S093,Stack,1
+S093,String,7
+S093,Tree,4
+S093,Two Pointers,1
+S093,nan,1
+S094,Array,53
+S094,Binary Search,1
+S094,Database,9
+S094,Depth-First Search,2
+S094,Graph,1
+S094,Hash Table,10
+S094,Linked List,2
+S094,Math,15
+S094,Stack,1
+S094,String,12
+S094,Tree,4
+S094,Two Pointers,2
+S094,nan,1
+S095,Array,40
+S095,Database,14
+S095,Dynamic Programming,1
+S095,Hash Table,7
+S095,Linked List,2
+S095,Math,13
+S095,Stack,1
+S095,String,7
+S095,Tree,4
+S095,Two Pointers,2
+S095,nan,1
+S096,Array,66
+S096,Breadth-First Search,1
+S096,Database,6
+S096,Depth-First Search,1
+S096,Greedy,1
+S096,Hash Table,5
+S096,Math,14
+S096,Stack,1
+S096,String,13
+S096,Tree,3
+S096,Two Pointers,4
+S096,Union Find,1
+S096,nan,7
+S097,Array,42
+S097,Backtracking,1
+S097,Bit Manipulation,2
+S097,Concurrency,1
+S097,Database,9
+S097,Depth-First Search,1
+S097,Hash Table,6
+S097,Linked List,1
+S097,Math,4
+S097,Stack,1
+S097,String,4
+S097,Tree,1
+S097,Two Pointers,1
+S097,nan,5
+S098,Array,62
+S098,Backtracking,1
+S098,Database,8
+S098,Design,1
+S098,Graph,1
+S098,Hash Table,2
+S098,Linked List,3
+S098,Math,10
+S098,Stack,1
+S098,String,11
+S098,Tree,1
+S098,Two Pointers,1
+S098,nan,1
+S099,Array,58
+S099,Binary Search,2
+S099,Database,11
+S099,Depth-First Search,1
+S099,Design,1
+S099,Dynamic Programming,1
+S099,Graph,2
+S099,Hash Table,7
+S099,Linked List,1
+S099,Math,8
+S099,String,11
+S099,Tree,4
+S099,nan,3
+S100,Array,40
+S100,Backtracking,2
+S100,Concurrency,1
+S100,Database,8
+S100,Depth-First Search,1
+S100,Dynamic Programming,1
+S100,Hash Table,11
+S100,Linked List,1
+S100,Math,6
+S100,String,7
+S100,Tree,1
+S100,nan,3
+S101,Array,49
+S101,Backtracking,1
+S101,Bit Manipulation,1
+S101,Database,9
+S101,Depth-First Search,3
+S101,Divide and Conquer,1
+S101,Hash Table,3
+S101,Linked List,2
+S101,Math,7
+S101,Stack,1
+S101,String,9
+S101,Tree,3
+S101,Two Pointers,3
+S101,nan,4
+S102,Array,48
+S102,Binary Search,1
+S102,Bit Manipulation,1
+S102,Database,16
+S102,Design,1
+S102,Hash Table,8
+S102,Linked List,1
+S102,Math,6
+S102,String,13
+S102,Tree,4
+S102,Two Pointers,3
+S102,nan,3
+S103,Array,45
+S103,Bit Manipulation,1
+S103,Concurrency,1
+S103,Database,10
+S103,Design,1
+S103,Dynamic Programming,1
+S103,Hash Table,1
+S103,Math,4
+S103,String,4
+S103,Tree,3
+S103,Two Pointers,4
+S103,nan,2
+S104,Array,50
+S104,Bit Manipulation,1
+S104,Breadth-First Search,1
+S104,Concurrency,1
+S104,Database,9
+S104,Graph,1
+S104,Hash Table,7
+S104,Linked List,5
+S104,Math,10
+S104,Stack,1
+S104,String,6
+S104,Tree,3
+S104,Two Pointers,1
+S104,nan,6
+S105,Array,50
+S105,Bit Manipulation,1
+S105,Database,13
+S105,Dynamic Programming,2
+S105,Hash Table,8
+S105,Linked List,1
+S105,Math,7
+S105,Shell,1
+S105,String,6
+S105,Tree,4
+S105,Two Pointers,2
+S106,Array,39
+S106,Database,7
+S106,Depth-First Search,1
+S106,Hash Table,6
+S106,Linked List,1
+S106,Math,8
+S106,String,7
+S106,Tree,4
+S106,nan,1
+S107,Array,58
+S107,Bit Manipulation,1
+S107,Concurrency,1
+S107,Database,8
+S107,Enumeration,1
+S107,Graph,1
+S107,Hash Table,2
+S107,Linked List,1
+S107,Math,7
+S107,String,8
+S107,Tree,2
+S107,Two Pointers,1
+S107,nan,1
+S108,Array,41
+S108,Binary Search,1
+S108,Bit Manipulation,1
+S108,Database,9
+S108,Hash Table,8
+S108,Linked List,1
+S108,Math,9
+S108,String,5
+S108,Tree,1
+S108,Two Pointers,2
+S108,nan,6
+S109,Array,51
+S109,Backtracking,1
+S109,Database,9
+S109,Depth-First Search,2
+S109,Hash Table,5
+S109,Linked List,2
+S109,Math,9
+S109,Shell,1
+S109,Stack,1
+S109,String,6
+S109,Two Pointers,1
+S109,nan,3
+S110,Array,29
+S110,Database,3
+S110,Hash Table,6
+S110,Linked List,1
+S110,Math,8
+S110,String,7
+S110,Tree,3
+S110,Union Find,1
+S110,nan,4
+S111,Array,44
+S111,Breadth-First Search,1
+S111,Database,7
+S111,Graph,1
+S111,Hash Table,11
+S111,Linked List,2
+S111,Math,10
+S111,String,11
+S111,Tree,6
+S111,Two Pointers,2
+S112,Array,37
+S112,Backtracking,1
+S112,Database,10
+S112,Depth-First Search,1
+S112,Hash Table,9
+S112,Linked List,3
+S112,Math,7
+S112,Sorting,1
+S112,Stack,1
+S112,String,9
+S112,Tree,7
+S112,Two Pointers,3
+S112,nan,3
+S113,Array,53
+S113,Backtracking,1
+S113,Binary Search,2
+S113,Bit Manipulation,1
+S113,Database,12
+S113,Dynamic Programming,1
+S113,Hash Table,10
+S113,Linked List,1
+S113,Math,9
+S113,Shell,1
+S113,Stack,1
+S113,String,13
+S113,Tree,4
+S113,Two Pointers,1
+S113,nan,1
+S114,Array,38
+S114,Concurrency,1
+S114,Database,6
+S114,Design,1
+S114,Dynamic Programming,2
+S114,Greedy,1
+S114,Hash Table,6
+S114,Linked List,2
+S114,Math,11
+S114,String,10
+S114,Tree,5
+S114,Two Pointers,2
+S114,nan,3
+S115,Array,38
+S115,Bit Manipulation,3
+S115,Database,9
+S115,Divide and Conquer,1
+S115,Dynamic Programming,1
+S115,Hash Table,5
+S115,Math,3
+S115,Shell,1
+S115,String,6
+S115,nan,5
+S116,Array,46
+S116,Backtracking,1
+S116,Binary Search,1
+S116,Database,12
+S116,Depth-First Search,1
+S116,Dynamic Programming,2
+S116,Hash Table,3
+S116,Math,8
+S116,String,10
+S116,Tree,2
+S116,Two Pointers,6
+S116,nan,3
+S117,Array,61
+S117,Breadth-First Search,1
+S117,Database,17
+S117,Depth-First Search,2
+S117,Dynamic Programming,3
+S117,Hash Table,2
+S117,Linked List,1
+S117,Math,5
+S117,Stack,2
+S117,String,11
+S117,Tree,9
+S117,Two Pointers,2
+S117,nan,3
+S118,Array,60
+S118,Binary Search,1
+S118,Breadth-First Search,1
+S118,Database,11
+S118,Depth-First Search,2
+S118,Dynamic Programming,1
+S118,Enumeration,1
+S118,Hash Table,10
+S118,Linked List,4
+S118,Math,8
+S118,Stack,2
+S118,String,9
+S118,Tree,6
+S118,nan,2
+S119,Array,47
+S119,Bit Manipulation,2
+S119,Concurrency,1
+S119,Database,6
+S119,Depth-First Search,1
+S119,Dynamic Programming,1
+S119,Greedy,1
+S119,Hash Table,2
+S119,Math,6
+S119,String,7
+S119,nan,4
+S120,Array,44
+S120,Breadth-First Search,1
+S120,Concurrency,1
+S120,Database,11
+S120,Hash Table,6
+S120,Linked List,1
+S120,Math,8
+S120,Stack,1
+S120,String,10
+S120,nan,1
+S121,Array,37
+S121,Database,10
+S121,Design,1
+S121,Divide and Conquer,1
+S121,Dynamic Programming,2
+S121,Hash Table,6
+S121,Linked List,1
+S121,Math,12
+S121,String,6
+S121,Tree,7
+S121,nan,3
+S122,Array,49
+S122,Binary Search,1
+S122,Bit Manipulation,1
+S122,Database,13
+S122,Design,1
+S122,Dynamic Programming,3
+S122,Hash Table,10
+S122,Math,9
+S122,String,10
+S122,Tree,3
+S122,Two Pointers,1
+S122,nan,2
+S123,Array,45
+S123,Binary Search,1
+S123,Bit Manipulation,1
+S123,Database,6
+S123,Hash Table,7
+S123,Math,9
+S123,Stack,1
+S123,String,2
+S123,Tree,3
+S123,Two Pointers,3
+S123,nan,1
+S124,Array,36
+S124,Binary Search,1
+S124,Bit Manipulation,1
+S124,Database,6
+S124,Dynamic Programming,4
+S124,Hash Table,3
+S124,Linked List,2
+S124,Math,8
+S124,Shell,1
+S124,String,9
+S124,Tree,1
+S124,Two Pointers,2
+S124,nan,4
+S125,Array,54
+S125,Database,8
+S125,Depth-First Search,1
+S125,Dynamic Programming,1
+S125,Graph,1
+S125,Hash Table,8
+S125,Linked List,2
+S125,Math,7
+S125,Stack,4
+S125,String,7
+S125,Tree,2
+S125,Two Pointers,1
+S125,nan,3
+S126,Array,40
+S126,Backtracking,1
+S126,Bit Manipulation,1
+S126,Database,11
+S126,Hash Table,5
+S126,Math,7
+S126,Stack,1
+S126,String,7
+S126,Tree,1
+S126,nan,3
+S127,Array,59
+S127,Database,10
+S127,Depth-First Search,1
+S127,Dynamic Programming,1
+S127,Graph,1
+S127,Hash Table,10
+S127,Linked List,2
+S127,Math,7
+S127,String,8
+S127,Tree,1
+S127,Two Pointers,2
+S127,nan,7
+S128,Array,39
+S128,Bit Manipulation,1
+S128,Database,8
+S128,Dynamic Programming,1
+S128,Graph,1
+S128,Hash Table,9
+S128,Math,10
+S128,String,6
+S128,Tree,4
+S128,Two Pointers,3
+S128,nan,2
+S129,Array,53
+S129,Binary Search,1
+S129,Concurrency,1
+S129,Database,11
+S129,Dynamic Programming,1
+S129,Hash Table,5
+S129,Linked List,1
+S129,Math,13
+S129,Stack,1
+S129,String,6
+S129,Tree,5
+S129,nan,4
+S130,Array,59
+S130,Bit Manipulation,1
+S130,Database,5
+S130,Dynamic Programming,1
+S130,Hash Table,8
+S130,Linked List,2
+S130,Math,6
+S130,Stack,1
+S130,String,7
+S130,Tree,3
+S130,Two Pointers,2
+S130,nan,3
+S131,Array,49
+S131,Breadth-First Search,1
+S131,Concurrency,1
+S131,Database,14
+S131,Depth-First Search,1
+S131,Dynamic Programming,1
+S131,Hash Table,11
+S131,Linked List,2
+S131,Math,16
+S131,Stack,1
+S131,String,9
+S131,Tree,3
+S131,Two Pointers,1
+S131,nan,7
+S132,Array,62
+S132,Backtracking,1
+S132,Binary Search,1
+S132,Bit Manipulation,1
+S132,Breadth-First Search,1
+S132,Database,10
+S132,Depth-First Search,1
+S132,Graph,2
+S132,Hash Table,9
+S132,Linked List,4
+S132,Math,8
+S132,Stack,3
+S132,String,11
+S132,Tree,5
+S132,Two Pointers,2
+S132,nan,3
+S133,Array,58
+S133,Bit Manipulation,1
+S133,Database,11
+S133,Dynamic Programming,2
+S133,Hash Table,9
+S133,Linked List,1
+S133,Math,5
+S133,Shell,1
+S133,String,8
+S133,Tree,7
+S133,Two Pointers,1
+S133,Union Find,2
+S133,nan,5
+S134,Array,41
+S134,Binary Search,1
+S134,Database,10
+S134,Depth-First Search,1
+S134,Dynamic Programming,1
+S134,Hash Table,10
+S134,Linked List,2
+S134,Math,9
+S134,Shell,1
+S134,Stack,1
+S134,String,7
+S134,Tree,1
+S134,Two Pointers,2
+S134,nan,2
+S135,Array,44
+S135,Bit Manipulation,1
+S135,Database,9
+S135,Hash Table,7
+S135,Linked List,1
+S135,Math,12
+S135,String,3
+S135,Tree,3
+S135,Two Pointers,2
+S135,nan,4
+S136,Array,54
+S136,Binary Search,1
+S136,Database,11
+S136,Depth-First Search,1
+S136,Divide and Conquer,1
+S136,Hash Table,10
+S136,Linked List,1
+S136,Math,10
+S136,String,5
+S136,Tree,3
+S136,Two Pointers,1
+S136,nan,5
+S137,Array,55
+S137,Bit Manipulation,1
+S137,Database,9
+S137,Graph,1
+S137,Hash Table,4
+S137,Linked List,1
+S137,Math,7
+S137,Shell,1
+S137,Stack,1
+S137,String,13
+S137,Tree,2
+S137,Two Pointers,1
+S137,nan,4
+S138,Array,46
+S138,Backtracking,1
+S138,Database,7
+S138,Depth-First Search,1
+S138,Hash Table,7
+S138,Math,8
+S138,String,7
+S138,Tree,4
+S138,Two Pointers,3
+S138,nan,4
+S139,Array,54
+S139,Database,8
+S139,Depth-First Search,1
+S139,Design,1
+S139,Dynamic Programming,2
+S139,Hash Table,8
+S139,Linked List,2
+S139,Math,7
+S139,String,11
+S139,Tree,1
+S139,Two Pointers,3
+S139,nan,5
+S140,Array,64
+S140,Binary Search,1
+S140,Bit Manipulation,1
+S140,Database,12
+S140,Depth-First Search,1
+S140,Hash Table,10
+S140,Linked List,1
+S140,Math,10
+S140,Stack,1
+S140,String,3
+S140,Tree,4
+S140,nan,3
+S141,Array,52
+S141,Database,8
+S141,Depth-First Search,1
+S141,Design,1
+S141,Dynamic Programming,2
+S141,Graph,1
+S141,Hash Table,5
+S141,Linked List,1
+S141,Math,6
+S141,Shell,2
+S141,String,12
+S141,Tree,3
+S141,Two Pointers,2
+S141,nan,3
+S142,Array,52
+S142,Backtracking,1
+S142,Database,8
+S142,Dynamic Programming,2
+S142,Hash Table,12
+S142,Linked List,1
+S142,Math,7
+S142,String,6
+S142,Tree,4
+S142,nan,6
+S143,Array,39
+S143,Backtracking,1
+S143,Binary Search,1
+S143,Database,8
+S143,Depth-First Search,2
+S143,Dynamic Programming,1
+S143,Hash Table,5
+S143,Linked List,2
+S143,Math,9
+S143,String,7
+S143,Tree,3
+S143,Two Pointers,2
+S143,nan,6
+S144,Array,59
+S144,Binary Search,1
+S144,Bit Manipulation,2
+S144,Database,10
+S144,Depth-First Search,1
+S144,Hash Table,5
+S144,Linked List,1
+S144,Math,14
+S144,Shell,1
+S144,Stack,1
+S144,String,9
+S144,Tree,8
+S144,Two Pointers,4
+S144,nan,3
+S145,Array,42
+S145,Database,11
+S145,Depth-First Search,1
+S145,Dynamic Programming,1
+S145,Hash Table,6
+S145,Linked List,4
+S145,Math,8
+S145,String,7
+S145,Tree,5
+S145,Two Pointers,2
+S145,nan,2
+S146,Array,66
+S146,Concurrency,1
+S146,Database,12
+S146,Dynamic Programming,2
+S146,Hash Table,10
+S146,Math,12
+S146,Shell,1
+S146,Stack,2
+S146,String,7
+S146,Tree,5
+S146,Two Pointers,7
+S146,nan,4
+S147,Array,79
+S147,Backtracking,1
+S147,Binary Search,1
+S147,Database,9
+S147,Depth-First Search,1
+S147,Design,1
+S147,Dynamic Programming,1
+S147,Hash Table,6
+S147,Math,9
+S147,String,11
+S147,Tree,2
+S147,Two Pointers,1
+S147,nan,3
+S148,Array,41
+S148,Database,10
+S148,Depth-First Search,1
+S148,Divide and Conquer,1
+S148,Dynamic Programming,1
+S148,Graph,1
+S148,Hash Table,10
+S148,Linked List,2
+S148,Math,6
+S148,Stack,1
+S148,String,11
+S148,Tree,3
+S148,Two Pointers,4
+S149,Array,55
+S149,Database,11
+S149,Depth-First Search,1
+S149,Design,1
+S149,Dynamic Programming,2
+S149,Hash Table,9
+S149,Math,10
+S149,Stack,3
+S149,String,8
+S149,Tree,3
+S149,Two Pointers,5
+S149,nan,1
+S150,Array,35
+S150,Bit Manipulation,1
+S150,Database,7
+S150,Depth-First Search,1
+S150,Dynamic Programming,1
+S150,Hash Table,4
+S150,Math,6
+S150,Stack,1
+S150,String,3
+S150,Tree,2
+S150,nan,3
+S151,Array,59
+S151,Concurrency,1
+S151,Database,11
+S151,Dynamic Programming,1
+S151,Hash Table,2
+S151,Linked List,2
+S151,Math,9
+S151,Sorting,1
+S151,Stack,3
+S151,String,9
+S151,Tree,3
+S151,Two Pointers,1
+S151,nan,5
+S152,Array,61
+S152,Backtracking,2
+S152,Database,8
+S152,Dynamic Programming,2
+S152,Hash Table,6
+S152,Linked List,1
+S152,Math,5
+S152,Stack,1
+S152,String,6
+S152,Tree,4
+S152,Two Pointers,1
+S152,nan,5
+S153,Array,48
+S153,Database,10
+S153,Dynamic Programming,1
+S153,Graph,1
+S153,Hash Table,7
+S153,Linked List,1
+S153,Math,9
+S153,Stack,1
+S153,String,7
+S153,Tree,4
+S153,Two Pointers,2
+S153,nan,6
+S154,Array,42
+S154,Bit Manipulation,1
+S154,Database,12
+S154,Depth-First Search,2
+S154,Dynamic Programming,1
+S154,Hash Table,4
+S154,Math,7
+S154,Stack,1
+S154,String,7
+S154,Tree,4
+S154,nan,1
+S155,Array,61
+S155,Binary Search,1
+S155,Database,15
+S155,Depth-First Search,2
+S155,Hash Table,9
+S155,Linked List,2
+S155,Math,4
+S155,String,4
+S155,Tree,5
+S155,Two Pointers,1
+S155,nan,1
+S156,Array,44
+S156,Binary Search,1
+S156,Bit Manipulation,1
+S156,Database,6
+S156,Divide and Conquer,1
+S156,Dynamic Programming,2
+S156,Hash Table,7
+S156,Linked List,2
+S156,Math,9
+S156,String,13
+S156,Tree,3
+S156,Two Pointers,1
+S156,nan,3
+S157,Array,61
+S157,Backtracking,1
+S157,Database,10
+S157,Dynamic Programming,1
+S157,Hash Table,8
+S157,Math,10
+S157,Shell,1
+S157,Stack,2
+S157,String,14
+S157,Tree,4
+S157,Two Pointers,2
+S157,nan,3
+S158,Array,63
+S158,Concurrency,1
+S158,Database,6
+S158,Divide and Conquer,1
+S158,Dynamic Programming,2
+S158,Graph,1
+S158,Hash Table,4
+S158,Linked List,1
+S158,Math,11
+S158,Stack,1
+S158,String,13
+S158,nan,3
+S159,Array,36
+S159,Bit Manipulation,1
+S159,Concurrency,1
+S159,Database,9
+S159,Dynamic Programming,1
+S159,Graph,1
+S159,Hash Table,1
+S159,Math,10
+S159,Stack,1
+S159,String,6
+S159,Tree,5
+S159,Two Pointers,3
+S159,nan,3
+S160,Array,45
+S160,Binary Search,1
+S160,Database,7
+S160,Depth-First Search,1
+S160,Design,1
+S160,Divide and Conquer,1
+S160,Dynamic Programming,1
+S160,Hash Table,6
+S160,Math,9
+S160,String,5
+S160,Tree,3
+S160,nan,2
+S161,Array,34
+S161,Binary Search,1
+S161,Bit Manipulation,2
+S161,Concurrency,1
+S161,Database,3
+S161,Depth-First Search,1
+S161,Dynamic Programming,1
+S161,Hash Table,4
+S161,Linked List,3
+S161,Math,10
+S161,String,6
+S161,Two Pointers,1
+S161,nan,5
+S162,Array,40
+S162,Backtracking,2
+S162,Database,7
+S162,Depth-First Search,1
+S162,Hash Table,8
+S162,Linked List,3
+S162,Math,8
+S162,Stack,1
+S162,String,4
+S162,Tree,5
+S162,Two Pointers,4
+S162,nan,2
+S163,Array,60
+S163,Bit Manipulation,1
+S163,Concurrency,1
+S163,Database,13
+S163,Design,1
+S163,Hash Table,11
+S163,Linked List,1
+S163,Math,10
+S163,Stack,1
+S163,String,6
+S163,Tree,3
+S163,Two Pointers,1
+S163,nan,6
+S164,Array,44
+S164,Bit Manipulation,2
+S164,Database,9
+S164,Hash Table,4
+S164,Linked List,1
+S164,Math,13
+S164,String,12
+S164,Tree,5
+S164,Two Pointers,3
+S164,nan,4
+S165,Array,44
+S165,Binary Search,1
+S165,Bit Manipulation,1
+S165,Database,10
+S165,Hash Table,4
+S165,Linked List,1
+S165,Math,9
+S165,String,12
+S165,Tree,5
+S165,Two Pointers,1
+S165,nan,5
+S166,Array,68
+S166,Bit Manipulation,2
+S166,Concurrency,1
+S166,Database,11
+S166,Design,1
+S166,Dynamic Programming,2
+S166,Graph,1
+S166,Hash Table,7
+S166,Math,9
+S166,String,5
+S166,Two Pointers,2
+S166,nan,3
+S167,Array,55
+S167,Bit Manipulation,2
+S167,Concurrency,1
+S167,Database,12
+S167,Depth-First Search,2
+S167,Design,1
+S167,Dynamic Programming,3
+S167,Graph,1
+S167,Hash Table,5
+S167,Linked List,3
+S167,Math,6
+S167,String,5
+S167,Tree,5
+S167,Two Pointers,2
+S167,nan,1
+S168,Array,49
+S168,Binary Search,1
+S168,Bit Manipulation,1
+S168,Breadth-First Search,1
+S168,Concurrency,1
+S168,Database,5
+S168,Depth-First Search,2
+S168,Dynamic Programming,2
+S168,Hash Table,14
+S168,Math,5
+S168,String,12
+S168,Tree,4
+S168,nan,5
+S169,Array,46
+S169,Backtracking,2
+S169,Bit Manipulation,1
+S169,Concurrency,1
+S169,Database,9
+S169,Depth-First Search,2
+S169,Design,1
+S169,Graph,1
+S169,Hash Table,5
+S169,Linked List,1
+S169,Math,6
+S169,Shell,1
+S169,Stack,1
+S169,String,8
+S169,Tree,1
+S169,Two Pointers,4
+S169,nan,4
+S170,Array,49
+S170,Binary Search,1
+S170,Bit Manipulation,1
+S170,Database,8
+S170,Depth-First Search,1
+S170,Hash Table,7
+S170,Linked List,1
+S170,Math,12
+S170,Stack,1
+S170,String,5
+S170,Tree,4
+S170,Two Pointers,4
+S170,Union Find,1
+S170,nan,3
+S171,Array,59
+S171,Bit Manipulation,1
+S171,Database,12
+S171,Depth-First Search,1
+S171,Dynamic Programming,1
+S171,Hash Table,12
+S171,Linked List,3
+S171,Math,11
+S171,Shell,1
+S171,String,9
+S171,Tree,4
+S171,Two Pointers,1
+S171,nan,3
+S172,Array,42
+S172,Bit Manipulation,2
+S172,Database,5
+S172,Dynamic Programming,2
+S172,Hash Table,3
+S172,Math,9
+S172,String,10
+S172,Tree,1
+S172,nan,7
+S173,Array,58
+S173,Bit Manipulation,1
+S173,Database,10
+S173,Depth-First Search,2
+S173,Design,1
+S173,Dynamic Programming,4
+S173,Graph,1
+S173,Hash Table,6
+S173,Linked List,1
+S173,Math,13
+S173,Sorting,1
+S173,String,5
+S173,Tree,2
+S173,Two Pointers,1
+S173,nan,1
+S174,Array,59
+S174,Backtracking,1
+S174,Database,16
+S174,Design,1
+S174,Dynamic Programming,3
+S174,Hash Table,6
+S174,Linked List,1
+S174,Math,12
+S174,String,10
+S174,Tree,2
+S174,Two Pointers,4
+S174,nan,1
+S175,Array,64
+S175,Backtracking,1
+S175,Binary Search,2
+S175,Bit Manipulation,1
+S175,Database,9
+S175,Depth-First Search,1
+S175,Dynamic Programming,2
+S175,Hash Table,8
+S175,Linked List,1
+S175,Math,13
+S175,String,9
+S175,Tree,2
+S175,Two Pointers,1
+S175,nan,3
+S176,Array,49
+S176,Database,13
+S176,Dynamic Programming,2
+S176,Graph,1
+S176,Hash Table,3
+S176,Linked List,1
+S176,Math,8
+S176,String,5
+S176,Tree,5
+S176,Two Pointers,1
+S177,Array,46
+S177,Database,12
+S177,Depth-First Search,2
+S177,Hash Table,5
+S177,Linked List,4
+S177,Math,11
+S177,Sorting,1
+S177,String,8
+S177,Tree,2
+S177,Two Pointers,3
+S177,nan,4
+S178,Array,58
+S178,Database,23
+S178,Depth-First Search,1
+S178,Hash Table,11
+S178,Math,9
+S178,String,14
+S178,Tree,9
+S178,Two Pointers,1
+S178,nan,4
+S179,Array,57
+S179,Backtracking,2
+S179,Binary Search,1
+S179,Concurrency,1
+S179,Database,9
+S179,Depth-First Search,1
+S179,Dynamic Programming,2
+S179,Hash Table,4
+S179,Linked List,2
+S179,Math,9
+S179,Stack,2
+S179,String,13
+S179,Tree,1
+S179,Two Pointers,1
+S179,nan,4
+S180,Array,50
+S180,Backtracking,1
+S180,Binary Search,1
+S180,Database,8
+S180,Dynamic Programming,2
+S180,Greedy,1
+S180,Hash Table,4
+S180,Linked List,1
+S180,Math,10
+S180,Stack,1
+S180,String,8
+S180,Tree,2
+S180,Two Pointers,1
+S180,nan,4
+S181,Array,57
+S181,Database,16
+S181,Dynamic Programming,6
+S181,Graph,1
+S181,Hash Table,6
+S181,Math,12
+S181,Stack,1
+S181,String,7
+S181,Tree,3
+S181,nan,1
+S182,Array,59
+S182,Binary Search,1
+S182,Bit Manipulation,2
+S182,Database,9
+S182,Dynamic Programming,1
+S182,Hash Table,4
+S182,Linked List,2
+S182,Math,10
+S182,Stack,1
+S182,String,9
+S182,Tree,2
+S182,Two Pointers,1
+S182,nan,5
+S183,Array,70
+S183,Backtracking,1
+S183,Binary Search,2
+S183,Bit Manipulation,1
+S183,Database,7
+S183,Dynamic Programming,1
+S183,Hash Table,7
+S183,Linked List,2
+S183,Math,12
+S183,Shell,1
+S183,Stack,2
+S183,String,4
+S183,Tree,1
+S183,nan,7
+S184,Array,38
+S184,Bit Manipulation,1
+S184,Database,9
+S184,Design,1
+S184,Dynamic Programming,1
+S184,Hash Table,3
+S184,Linked List,1
+S184,Math,9
+S184,Shell,1
+S184,Sorting,1
+S184,String,4
+S184,Two Pointers,1
+S185,Array,48
+S185,Binary Search,1
+S185,Breadth-First Search,1
+S185,Database,10
+S185,Design,1
+S185,Hash Table,3
+S185,Math,6
+S185,String,9
+S185,Tree,4
+S185,nan,2
+S186,Array,46
+S186,Backtracking,1
+S186,Bit Manipulation,2
+S186,Database,5
+S186,Dynamic Programming,1
+S186,Graph,1
+S186,Hash Table,8
+S186,Linked List,2
+S186,Math,9
+S186,String,8
+S186,Tree,4
+S186,nan,3
+S187,Array,40
+S187,Bit Manipulation,1
+S187,Database,9
+S187,Depth-First Search,1
+S187,Dynamic Programming,1
+S187,Hash Table,11
+S187,Linked List,1
+S187,Math,13
+S187,Sorting,1
+S187,String,11
+S187,Tree,3
+S187,Two Pointers,3
+S187,nan,3
+S188,Array,58
+S188,Bit Manipulation,1
+S188,Concurrency,1
+S188,Database,8
+S188,Depth-First Search,3
+S188,Dynamic Programming,1
+S188,Hash Table,6
+S188,Linked List,1
+S188,Math,14
+S188,Stack,1
+S188,String,8
+S188,Tree,4
+S188,Two Pointers,3
+S188,nan,2
+S189,Array,36
+S189,Database,10
+S189,Depth-First Search,1
+S189,Dynamic Programming,1
+S189,Graph,2
+S189,Greedy,1
+S189,Hash Table,2
+S189,Math,8
+S189,Shell,2
+S189,Stack,1
+S189,String,9
+S189,Tree,3
+S189,Two Pointers,1
+S189,nan,3
+S190,Array,32
+S190,Backtracking,1
+S190,Database,11
+S190,Depth-First Search,1
+S190,Dynamic Programming,2
+S190,Greedy,1
+S190,Hash Table,5
+S190,Linked List,1
+S190,Math,8
+S190,String,11
+S190,Tree,4
+S190,Two Pointers,2
+S190,nan,3
+S191,Array,54
+S191,Binary Search,2
+S191,Database,9
+S191,Divide and Conquer,1
+S191,Dynamic Programming,1
+S191,Hash Table,6
+S191,Linked List,2
+S191,Math,10
+S191,String,7
+S191,Tree,1
+S191,Two Pointers,2
+S191,nan,4
+S192,Array,53
+S192,Database,12
+S192,Depth-First Search,1
+S192,Dynamic Programming,3
+S192,Enumeration,1
+S192,Hash Table,3
+S192,Linked List,4
+S192,Math,9
+S192,String,12
+S192,Tree,2
+S192,nan,4
+S193,Array,34
+S193,Binary Search,1
+S193,Bit Manipulation,1
+S193,Database,13
+S193,Depth-First Search,1
+S193,Enumeration,1
+S193,Hash Table,5
+S193,Linked List,1
+S193,Math,9
+S193,Shell,1
+S193,Stack,1
+S193,String,11
+S193,Tree,1
+S193,Two Pointers,2
+S193,nan,4
+S194,Array,53
+S194,Binary Search,2
+S194,Database,3
+S194,Depth-First Search,2
+S194,Divide and Conquer,1
+S194,Graph,1
+S194,Greedy,1
+S194,Hash Table,5
+S194,Linked List,2
+S194,Math,5
+S194,Stack,1
+S194,String,5
+S194,Tree,3
+S194,Two Pointers,2
+S195,Array,69
+S195,Bit Manipulation,1
+S195,Database,14
+S195,Depth-First Search,1
+S195,Dynamic Programming,2
+S195,Hash Table,5
+S195,Linked List,1
+S195,Math,5
+S195,Shell,1
+S195,Stack,1
+S195,String,7
+S195,Tree,5
+S195,Two Pointers,2
+S195,nan,3
+S196,Array,44
+S196,Database,9
+S196,Depth-First Search,1
+S196,Divide and Conquer,1
+S196,Dynamic Programming,1
+S196,Graph,1
+S196,Hash Table,6
+S196,Linked List,1
+S196,Math,7
+S196,Shell,1
+S196,String,8
+S196,Tree,2
+S196,Two Pointers,2
+S197,Array,38
+S197,Binary Search,1
+S197,Bit Manipulation,1
+S197,Breadth-First Search,1
+S197,Database,5
+S197,Dynamic Programming,1
+S197,Hash Table,5
+S197,Linked List,1
+S197,Math,8
+S197,String,3
+S197,Tree,4
+S197,nan,3
+S198,Array,35
+S198,Database,11
+S198,Design,1
+S198,Graph,1
+S198,Hash Table,4
+S198,Linked List,1
+S198,Math,4
+S198,String,5
+S198,Tree,3
+S198,Two Pointers,2
+S198,nan,2
+S199,Array,43
+S199,Binary Search,1
+S199,Database,17
+S199,Dynamic Programming,3
+S199,Hash Table,8
+S199,Linked List,2
+S199,Math,9
+S199,String,12
+S199,Tree,3
+S199,Union Find,2
+S199,nan,4
+S200,Array,44
+S200,Concurrency,1
+S200,Database,12
+S200,Divide and Conquer,1
+S200,Hash Table,4
+S200,Linked List,2
+S200,Math,5
+S200,String,15
+S200,Tree,6
+S200,Two Pointers,1
+S200,nan,3
+S201,Array,55
+S201,Database,4
+S201,Divide and Conquer,1
+S201,Hash Table,9
+S201,Math,9
+S201,String,7
+S201,Tree,6
+S201,Two Pointers,1
+S201,nan,3
+S202,Array,46
+S202,Database,8
+S202,Depth-First Search,2
+S202,Hash Table,7
+S202,Math,9
+S202,Shell,1
+S202,Stack,2
+S202,String,11
+S202,Tree,6
+S202,Two Pointers,2
+S202,nan,2
+S203,Array,58
+S203,Backtracking,1
+S203,Binary Search,1
+S203,Bit Manipulation,1
+S203,Database,17
+S203,Hash Table,5
+S203,Linked List,1
+S203,Math,11
+S203,Stack,1
+S203,String,9
+S203,Tree,3
+S203,Two Pointers,1
+S203,nan,3
+S204,Array,51
+S204,Bit Manipulation,2
+S204,Database,7
+S204,Depth-First Search,2
+S204,Dynamic Programming,1
+S204,Graph,1
+S204,Hash Table,11
+S204,Linked List,3
+S204,Math,10
+S204,Stack,1
+S204,String,7
+S204,Tree,3
+S204,Two Pointers,2
+S204,nan,3
+S205,Array,39
+S205,Backtracking,1
+S205,Bit Manipulation,1
+S205,Database,9
+S205,Dynamic Programming,5
+S205,Graph,1
+S205,Hash Table,8
+S205,Linked List,1
+S205,Math,7
+S205,Stack,1
+S205,String,9
+S205,Tree,2
+S205,Two Pointers,1
+S205,nan,3
+S206,Array,52
+S206,Database,12
+S206,Depth-First Search,1
+S206,Dynamic Programming,1
+S206,Graph,1
+S206,Hash Table,8
+S206,Math,11
+S206,String,5
+S206,Tree,5
+S206,Two Pointers,2
+S206,nan,1
+S207,Array,34
+S207,Backtracking,1
+S207,Bit Manipulation,2
+S207,Database,3
+S207,Dynamic Programming,1
+S207,Hash Table,8
+S207,Linked List,1
+S207,Math,5
+S207,Stack,1
+S207,String,13
+S207,Tree,4
+S207,Two Pointers,1
+S207,nan,4
+S208,Array,43
+S208,Backtracking,1
+S208,Bit Manipulation,1
+S208,Concurrency,1
+S208,Database,11
+S208,Depth-First Search,1
+S208,Design,1
+S208,Dynamic Programming,2
+S208,Graph,1
+S208,Hash Table,2
+S208,Math,9
+S208,String,8
+S208,Two Pointers,1
+S208,Union Find,1
+S208,nan,2
+S209,Array,48
+S209,Binary Search,1
+S209,Bit Manipulation,1
+S209,Breadth-First Search,1
+S209,Database,11
+S209,Depth-First Search,2
+S209,Divide and Conquer,1
+S209,Dynamic Programming,1
+S209,Hash Table,3
+S209,Linked List,1
+S209,Math,9
+S209,String,9
+S209,Tree,3
+S209,Two Pointers,5
+S209,nan,7
+S210,Array,52
+S210,Backtracking,1
+S210,Bit Manipulation,1
+S210,Database,14
+S210,Dynamic Programming,1
+S210,Hash Table,4
+S210,Linked List,3
+S210,Math,12
+S210,Stack,1
+S210,String,9
+S210,Tree,5
+S210,Two Pointers,4
+S210,nan,3
+S211,Array,33
+S211,Bit Manipulation,1
+S211,Database,10
+S211,Divide and Conquer,1
+S211,Dynamic Programming,3
+S211,Graph,1
+S211,Hash Table,5
+S211,Math,9
+S211,String,8
+S211,Tree,2
+S211,nan,4
+S212,Array,51
+S212,Binary Search,4
+S212,Bit Manipulation,1
+S212,Database,14
+S212,Design,2
+S212,Dynamic Programming,3
+S212,Graph,3
+S212,Hash Table,4
+S212,Linked List,3
+S212,Math,7
+S212,Stack,3
+S212,String,8
+S212,Tree,2
+S212,Two Pointers,2
+S212,Union Find,1
+S212,nan,6
+S213,Array,51
+S213,Database,6
+S213,Hash Table,6
+S213,Math,9
+S213,Stack,1
+S213,String,10
+S213,Tree,1
+S213,Two Pointers,1
+S213,nan,2
+S214,Array,56
+S214,Backtracking,1
+S214,Database,8
+S214,Depth-First Search,1
+S214,Dynamic Programming,2
+S214,Enumeration,1
+S214,Hash Table,7
+S214,Linked List,2
+S214,Math,5
+S214,String,13
+S214,Tree,1
+S214,Two Pointers,2
+S214,nan,3
+S215,Array,62
+S215,Database,5
+S215,Depth-First Search,1
+S215,Hash Table,4
+S215,Linked List,3
+S215,Math,8
+S215,String,9
+S215,Tree,4
+S215,Two Pointers,3
+S215,nan,3
+S216,Array,39
+S216,Binary Search,2
+S216,Database,12
+S216,Dynamic Programming,1
+S216,Enumeration,1
+S216,Hash Table,3
+S216,Linked List,3
+S216,Math,9
+S216,String,10
+S216,Tree,3
+S216,Trie,1
+S216,Two Pointers,2
+S216,nan,2
+S217,Array,62
+S217,Bit Manipulation,2
+S217,Database,11
+S217,Depth-First Search,1
+S217,Dynamic Programming,2
+S217,Graph,1
+S217,Hash Table,11
+S217,Math,12
+S217,Stack,1
+S217,String,18
+S217,Tree,3
+S217,nan,2
+S218,Array,63
+S218,Binary Search,1
+S218,Database,8
+S218,Depth-First Search,3
+S218,Dynamic Programming,1
+S218,Greedy,1
+S218,Hash Table,12
+S218,Linked List,2
+S218,Math,6
+S218,Stack,1
+S218,String,10
+S218,Tree,1
+S218,Two Pointers,3
+S218,Union Find,1
+S218,nan,5
+S219,Array,54
+S219,Database,8
+S219,Depth-First Search,2
+S219,Design,1
+S219,Dynamic Programming,1
+S219,Hash Table,14
+S219,Linked List,1
+S219,Math,11
+S219,String,11
+S219,Tree,2
+S219,Two Pointers,1
+S219,nan,3
+S220,Array,40
+S220,Database,15
+S220,Depth-First Search,1
+S220,Design,1
+S220,Divide and Conquer,1
+S220,Dynamic Programming,2
+S220,Greedy,1
+S220,Hash Table,6
+S220,Linked List,2
+S220,Math,15
+S220,Stack,1
+S220,String,12
+S220,Tree,1
+S220,Two Pointers,1
+S220,nan,4
+S221,Array,54
+S221,Bit Manipulation,1
+S221,Database,8
+S221,Dynamic Programming,1
+S221,Hash Table,3
+S221,Linked List,3
+S221,Math,17
+S221,Stack,1
+S221,String,12
+S221,Two Pointers,2
+S221,nan,1
+S222,Array,29
+S222,Database,7
+S222,Depth-First Search,1
+S222,Hash Table,3
+S222,Linked List,1
+S222,Math,4
+S222,String,4
+S222,Tree,3
+S222,Two Pointers,3
+S222,nan,2
+S223,Array,61
+S223,Binary Search,2
+S223,Bit Manipulation,1
+S223,Database,7
+S223,Depth-First Search,1
+S223,Dynamic Programming,2
+S223,Hash Table,7
+S223,Math,12
+S223,String,13
+S223,Tree,5
+S223,Two Pointers,2
+S223,Union Find,1
+S223,nan,6
+S224,Array,56
+S224,Binary Search,1
+S224,Breadth-First Search,1
+S224,Database,11
+S224,Design,1
+S224,Graph,1
+S224,Hash Table,11
+S224,Linked List,2
+S224,Math,6
+S224,Sorting,1
+S224,Stack,1
+S224,String,10
+S224,Tree,3
+S224,nan,9
+S225,Array,40
+S225,Bit Manipulation,1
+S225,Database,4
+S225,Dynamic Programming,1
+S225,Hash Table,3
+S225,Linked List,3
+S225,Math,12
+S225,String,6
+S225,Tree,2
+S225,Two Pointers,5
+S225,nan,5
+S226,Array,43
+S226,Binary Search,1
+S226,Bit Manipulation,1
+S226,Database,7
+S226,Design,1
+S226,Divide and Conquer,1
+S226,Dynamic Programming,2
+S226,Hash Table,6
+S226,Linked List,2
+S226,Math,8
+S226,Stack,2
+S226,String,8
+S226,Tree,4
+S226,Two Pointers,2
+S226,nan,5
+S227,Array,59
+S227,Bit Manipulation,2
+S227,Database,9
+S227,Depth-First Search,1
+S227,Dynamic Programming,2
+S227,Hash Table,4
+S227,Linked List,1
+S227,Math,11
+S227,String,7
+S227,Tree,4
+S227,Two Pointers,3
+S227,nan,2
+S228,Array,51
+S228,Backtracking,1
+S228,Binary Search,1
+S228,Database,16
+S228,Design,1
+S228,Dynamic Programming,2
+S228,Graph,1
+S228,Hash Table,7
+S228,Math,8
+S228,Stack,2
+S228,String,12
+S228,Tree,5
+S228,Two Pointers,2
+S228,nan,2
+S229,Array,60
+S229,Backtracking,1
+S229,Bit Manipulation,1
+S229,Database,7
+S229,Dynamic Programming,2
+S229,Hash Table,5
+S229,Linked List,2
+S229,Math,9
+S229,Stack,1
+S229,String,12
+S229,Tree,3
+S229,nan,1
+S230,Array,52
+S230,Concurrency,1
+S230,Database,10
+S230,Design,1
+S230,Graph,1
+S230,Hash Table,1
+S230,Linked List,3
+S230,Math,8
+S230,Stack,1
+S230,String,6
+S230,Tree,1
+S230,Two Pointers,1
+S230,Union Find,1
+S230,nan,1
+S231,Array,48
+S231,Bit Manipulation,1
+S231,Database,13
+S231,Divide and Conquer,1
+S231,Hash Table,6
+S231,Linked List,1
+S231,Math,9
+S231,Stack,1
+S231,String,6
+S231,Tree,2
+S231,Two Pointers,2
+S231,nan,6
+S232,Array,58
+S232,Breadth-First Search,1
+S232,Concurrency,1
+S232,Database,14
+S232,Design,1
+S232,Dynamic Programming,1
+S232,Hash Table,9
+S232,Math,11
+S232,String,11
+S232,Trie,1
+S232,nan,3
+S233,Array,29
+S233,Bit Manipulation,1
+S233,Database,11
+S233,Hash Table,12
+S233,Linked List,1
+S233,Math,6
+S233,Stack,1
+S233,String,4
+S233,Tree,1
+S233,Two Pointers,2
+S233,nan,3
+S234,Array,60
+S234,Backtracking,1
+S234,Bit Manipulation,1
+S234,Database,6
+S234,Design,1
+S234,Hash Table,2
+S234,Linked List,2
+S234,Math,10
+S234,String,10
+S234,Tree,2
+S234,Two Pointers,4
+S234,nan,5
+S235,Array,41
+S235,Database,13
+S235,Depth-First Search,1
+S235,Dynamic Programming,1
+S235,Hash Table,8
+S235,Math,8
+S235,String,6
+S235,Tree,3
+S235,Two Pointers,3
+S235,nan,2
+S236,Array,51
+S236,Database,13
+S236,Depth-First Search,1
+S236,Dynamic Programming,2
+S236,Hash Table,4
+S236,Math,5
+S236,Shell,1
+S236,String,6
+S236,Tree,3
+S236,nan,5
+S237,Array,49
+S237,Bit Manipulation,1
+S237,Database,11
+S237,Depth-First Search,1
+S237,Hash Table,7
+S237,Linked List,2
+S237,Math,11
+S237,Stack,1
+S237,String,6
+S237,Tree,6
+S237,Two Pointers,2
+S237,nan,4
+S238,Array,52
+S238,Binary Search,2
+S238,Database,15
+S238,Depth-First Search,1
+S238,Hash Table,5
+S238,Linked List,1
+S238,Math,10
+S238,String,10
+S238,Tree,4
+S238,nan,7
+S239,Array,52
+S239,Backtracking,1
+S239,Binary Search,1
+S239,Database,3
+S239,Depth-First Search,3
+S239,Dynamic Programming,2
+S239,Hash Table,4
+S239,Math,9
+S239,Stack,1
+S239,String,5
+S239,Tree,2
+S239,Two Pointers,1
+S239,nan,4
+S240,Array,44
+S240,Binary Search,1
+S240,Bit Manipulation,1
+S240,Database,13
+S240,Depth-First Search,1
+S240,Hash Table,4
+S240,Linked List,2
+S240,Math,7
+S240,String,9
+S240,Tree,7
+S240,Two Pointers,4
+S240,nan,8
+S241,Array,46
+S241,Binary Search,1
+S241,Concurrency,1
+S241,Database,7
+S241,Depth-First Search,1
+S241,Dynamic Programming,1
+S241,Graph,1
+S241,Hash Table,11
+S241,Linked List,1
+S241,Math,12
+S241,Stack,2
+S241,String,11
+S241,Tree,4
+S241,Two Pointers,1
+S241,nan,3
+S242,Array,41
+S242,Database,9
+S242,Design,1
+S242,Dynamic Programming,2
+S242,Hash Table,7
+S242,Linked List,1
+S242,Math,5
+S242,Stack,2
+S242,String,6
+S242,Tree,3
+S242,Two Pointers,1
+S242,nan,2
+S243,Array,35
+S243,Database,9
+S243,Depth-First Search,1
+S243,Hash Table,6
+S243,Math,7
+S243,Stack,1
+S243,String,10
+S243,Tree,1
+S243,Two Pointers,1
+S243,nan,3
+S244,Array,62
+S244,Binary Search,1
+S244,Bit Manipulation,1
+S244,Breadth-First Search,1
+S244,Database,9
+S244,Depth-First Search,1
+S244,Hash Table,9
+S244,Linked List,2
+S244,Math,8
+S244,String,15
+S244,Tree,3
+S244,Two Pointers,1
+S244,nan,2
+S245,Array,56
+S245,Backtracking,1
+S245,Binary Search,1
+S245,Database,13
+S245,Depth-First Search,1
+S245,Dynamic Programming,1
+S245,Hash Table,7
+S245,Linked List,1
+S245,Math,15
+S245,String,10
+S245,Tree,3
+S245,Two Pointers,1
+S245,nan,4
+S246,Array,58
+S246,Binary Search,1
+S246,Bit Manipulation,1
+S246,Database,12
+S246,Depth-First Search,1
+S246,Design,1
+S246,Dynamic Programming,2
+S246,Graph,2
+S246,Hash Table,2
+S246,Linked List,2
+S246,Math,12
+S246,Stack,2
+S246,String,8
+S246,Tree,4
+S246,nan,3
+S247,Array,37
+S247,Breadth-First Search,1
+S247,Database,10
+S247,Depth-First Search,2
+S247,Greedy,1
+S247,Hash Table,5
+S247,Linked List,1
+S247,Math,8
+S247,String,9
+S247,Tree,8
+S247,nan,2
+S248,Array,42
+S248,Backtracking,1
+S248,Binary Search,2
+S248,Bit Manipulation,5
+S248,Concurrency,1
+S248,Database,10
+S248,Depth-First Search,1
+S248,Divide and Conquer,1
+S248,Dynamic Programming,2
+S248,Graph,2
+S248,Hash Table,4
+S248,Math,11
+S248,String,15
+S248,Tree,5
+S248,Two Pointers,2
+S248,nan,2
+S249,Array,37
+S249,Binary Search,1
+S249,Bit Manipulation,1
+S249,Concurrency,1
+S249,Database,8
+S249,Dynamic Programming,1
+S249,Graph,2
+S249,Hash Table,15
+S249,Math,5
+S249,String,6
+S249,Tree,1
+S249,nan,1
+S250,Array,44
+S250,Bit Manipulation,2
+S250,Database,9
+S250,Design,1
+S250,Dynamic Programming,1
+S250,Graph,1
+S250,Hash Table,7
+S250,Math,9
+S250,String,5
+S250,Tree,2
+S250,Two Pointers,3
+S250,nan,1
+S251,Array,61
+S251,Database,9
+S251,Dynamic Programming,4
+S251,Hash Table,7
+S251,Linked List,1
+S251,Math,15
+S251,Shell,1
+S251,String,7
+S251,Tree,4
+S251,nan,4
+S252,Array,63
+S252,Bit Manipulation,1
+S252,Database,9
+S252,Design,1
+S252,Divide and Conquer,1
+S252,Dynamic Programming,1
+S252,Hash Table,5
+S252,Linked List,2
+S252,Math,11
+S252,Stack,1
+S252,String,13
+S252,Tree,1
+S252,Two Pointers,6
+S252,nan,2
+S253,Array,32
+S253,Bit Manipulation,1
+S253,Database,11
+S253,Greedy,1
+S253,Hash Table,4
+S253,Math,4
+S253,String,6
+S253,Tree,3
+S253,nan,3
+S254,Array,42
+S254,Database,12
+S254,Design,1
+S254,Hash Table,3
+S254,Math,11
+S254,Stack,2
+S254,String,8
+S254,Tree,2
+S254,Two Pointers,2
+S254,nan,5
+S255,Array,47
+S255,Binary Search,1
+S255,Bit Manipulation,1
+S255,Database,12
+S255,Dynamic Programming,4
+S255,Graph,1
+S255,Hash Table,6
+S255,Linked List,4
+S255,Math,7
+S255,String,14
+S255,Tree,4
+S255,Two Pointers,5
+S255,nan,3
+S256,Array,57
+S256,Binary Search,1
+S256,Bit Manipulation,2
+S256,Concurrency,1
+S256,Database,12
+S256,Depth-First Search,1
+S256,Dynamic Programming,1
+S256,Hash Table,6
+S256,Math,11
+S256,String,10
+S256,Tree,1
+S256,nan,8
+S257,Array,53
+S257,Backtracking,1
+S257,Database,7
+S257,Depth-First Search,2
+S257,Design,1
+S257,Dynamic Programming,1
+S257,Hash Table,3
+S257,Math,4
+S257,String,7
+S257,Tree,3
+S257,Two Pointers,2
+S257,Union Find,1
+S257,nan,4
+S258,Array,41
+S258,Binary Search,1
+S258,Database,11
+S258,Depth-First Search,1
+S258,Hash Table,5
+S258,Math,8
+S258,String,10
+S258,Tree,4
+S258,nan,5
+S259,Array,53
+S259,Bit Manipulation,1
+S259,Database,7
+S259,Depth-First Search,1
+S259,Design,1
+S259,Dynamic Programming,2
+S259,Hash Table,2
+S259,Linked List,1
+S259,Math,4
+S259,String,9
+S259,Tree,2
+S259,Two Pointers,2
+S259,nan,1
+S260,Array,47
+S260,Binary Search,1
+S260,Database,12
+S260,Design,1
+S260,Hash Table,5
+S260,Math,8
+S260,String,8
+S260,Tree,3
+S260,Two Pointers,1
+S260,nan,2
+S261,Array,54
+S261,Binary Search,1
+S261,Bit Manipulation,1
+S261,Concurrency,1
+S261,Database,15
+S261,Hash Table,3
+S261,Linked List,2
+S261,Math,11
+S261,Sorting,1
+S261,Stack,1
+S261,String,14
+S261,Tree,1
+S261,Two Pointers,2
+S262,Array,48
+S262,Bit Manipulation,2
+S262,Database,15
+S262,Graph,1
+S262,Hash Table,6
+S262,Math,12
+S262,Stack,1
+S262,String,10
+S262,Tree,4
+S262,Two Pointers,3
+S262,nan,6
+S263,Array,57
+S263,Binary Search,1
+S263,Bit Manipulation,1
+S263,Database,7
+S263,Depth-First Search,2
+S263,Divide and Conquer,1
+S263,Dynamic Programming,2
+S263,Hash Table,7
+S263,Linked List,2
+S263,Math,10
+S263,Stack,1
+S263,String,10
+S263,Tree,3
+S263,Two Pointers,1
+S263,nan,2
+S264,Array,51
+S264,Bit Manipulation,1
+S264,Breadth-First Search,2
+S264,Database,13
+S264,Depth-First Search,1
+S264,Dynamic Programming,1
+S264,Hash Table,11
+S264,Linked List,2
+S264,Math,9
+S264,Stack,1
+S264,String,6
+S264,Tree,7
+S264,Two Pointers,3
+S264,nan,5
+S265,Array,47
+S265,Database,8
+S265,Depth-First Search,1
+S265,Dynamic Programming,1
+S265,Greedy,1
+S265,Hash Table,12
+S265,Linked List,3
+S265,Math,15
+S265,String,12
+S265,Tree,2
+S265,Two Pointers,2
+S265,nan,5
+S266,Array,58
+S266,Binary Search,1
+S266,Bit Manipulation,1
+S266,Database,13
+S266,Dynamic Programming,2
+S266,Hash Table,8
+S266,Linked List,1
+S266,Math,11
+S266,String,14
+S266,Tree,3
+S266,nan,5
+S267,Array,71
+S267,Database,7
+S267,Graph,1
+S267,Hash Table,12
+S267,Linked List,2
+S267,Math,10
+S267,String,10
+S267,Tree,6
+S267,nan,3
+S268,Array,52
+S268,Breadth-First Search,1
+S268,Database,8
+S268,Design,1
+S268,Dynamic Programming,2
+S268,Hash Table,4
+S268,Linked List,2
+S268,Math,7
+S268,Stack,1
+S268,String,11
+S268,Tree,5
+S268,Two Pointers,2
+S268,nan,9
+S269,Array,50
+S269,Database,7
+S269,Dynamic Programming,2
+S269,Graph,1
+S269,Hash Table,8
+S269,Math,8
+S269,String,12
+S269,Tree,5
+S269,Two Pointers,2
+S269,nan,1
+S270,Array,43
+S270,Backtracking,1
+S270,Bit Manipulation,2
+S270,Concurrency,1
+S270,Database,13
+S270,Divide and Conquer,1
+S270,Dynamic Programming,1
+S270,Graph,1
+S270,Hash Table,14
+S270,Linked List,1
+S270,Math,5
+S270,Shell,1
+S270,Sorting,1
+S270,String,6
+S270,Tree,4
+S270,Two Pointers,1
+S270,nan,3
+S271,Array,38
+S271,Binary Search,2
+S271,Bit Manipulation,1
+S271,Database,8
+S271,Dynamic Programming,1
+S271,Hash Table,7
+S271,Math,12
+S271,String,5
+S271,Tree,7
+S271,nan,2
+S272,Array,39
+S272,Backtracking,1
+S272,Bit Manipulation,1
+S272,Breadth-First Search,1
+S272,Database,14
+S272,Dynamic Programming,1
+S272,Hash Table,12
+S272,Linked List,1
+S272,Math,8
+S272,Stack,3
+S272,String,4
+S272,Tree,4
+S272,nan,4
+S273,Array,65
+S273,Backtracking,1
+S273,Bit Manipulation,1
+S273,Database,17
+S273,Depth-First Search,3
+S273,Divide and Conquer,1
+S273,Dynamic Programming,4
+S273,Greedy,1
+S273,Hash Table,11
+S273,Linked List,2
+S273,Math,4
+S273,String,17
+S273,Tree,4
+S273,Two Pointers,1
+S273,nan,3
+S274,Array,56
+S274,Backtracking,1
+S274,Database,5
+S274,Depth-First Search,1
+S274,Dynamic Programming,1
+S274,Hash Table,3
+S274,Linked List,2
+S274,Math,16
+S274,String,8
+S274,Tree,4
+S274,Two Pointers,2
+S274,nan,4
+S275,Array,35
+S275,Database,11
+S275,Depth-First Search,1
+S275,Design,1
+S275,Graph,1
+S275,Hash Table,3
+S275,Linked List,1
+S275,Math,7
+S275,Shell,1
+S275,String,7
+S275,Tree,3
+S275,Two Pointers,1
+S275,nan,4
+S276,Array,40
+S276,Database,5
+S276,Depth-First Search,1
+S276,Dynamic Programming,1
+S276,Hash Table,6
+S276,Math,11
+S276,String,5
+S276,Tree,5
+S276,Two Pointers,2
+S276,Union Find,1
+S276,nan,4
+S277,Array,64
+S277,Binary Search,3
+S277,Concurrency,1
+S277,Database,6
+S277,Depth-First Search,1
+S277,Design,1
+S277,Graph,1
+S277,Hash Table,4
+S277,Linked List,2
+S277,Math,10
+S277,String,3
+S277,Tree,3
+S277,Two Pointers,2
+S277,Union Find,1
+S277,nan,2
+S278,Array,52
+S278,Backtracking,1
+S278,Binary Search,1
+S278,Database,7
+S278,Dynamic Programming,2
+S278,Graph,1
+S278,Hash Table,1
+S278,Linked List,3
+S278,Math,4
+S278,String,7
+S278,Tree,5
+S278,Two Pointers,1
+S278,nan,2
+S279,Array,35
+S279,Backtracking,1
+S279,Bit Manipulation,2
+S279,Database,9
+S279,Dynamic Programming,1
+S279,Hash Table,8
+S279,Linked List,1
+S279,Math,4
+S279,String,3
+S279,Tree,1
+S279,Two Pointers,1
+S279,nan,4
+S280,Array,44
+S280,Bit Manipulation,1
+S280,Database,6
+S280,Depth-First Search,1
+S280,Divide and Conquer,1
+S280,Dynamic Programming,1
+S280,Hash Table,8
+S280,Linked List,2
+S280,Math,9
+S280,String,5
+S280,Tree,3
+S280,Two Pointers,1
+S280,nan,3
+S281,Array,49
+S281,Bit Manipulation,2
+S281,Database,6
+S281,Depth-First Search,1
+S281,Dynamic Programming,1
+S281,Hash Table,7
+S281,Linked List,1
+S281,Math,11
+S281,Stack,3
+S281,String,9
+S281,Tree,3
+S281,Two Pointers,4
+S281,nan,5
+S282,Array,41
+S282,Binary Search,1
+S282,Database,11
+S282,Depth-First Search,2
+S282,Dynamic Programming,2
+S282,Hash Table,9
+S282,Linked List,1
+S282,Math,12
+S282,Shell,1
+S282,Stack,1
+S282,String,12
+S282,Tree,2
+S282,Two Pointers,1
+S282,nan,3
+S283,Array,54
+S283,Backtracking,1
+S283,Database,10
+S283,Depth-First Search,1
+S283,Design,1
+S283,Graph,2
+S283,Hash Table,6
+S283,Linked List,1
+S283,Math,5
+S283,Stack,1
+S283,String,10
+S283,Tree,5
+S283,Two Pointers,1
+S283,nan,2
+S284,Array,37
+S284,Bit Manipulation,2
+S284,Database,13
+S284,Enumeration,1
+S284,Hash Table,5
+S284,Linked List,1
+S284,Math,7
+S284,Stack,1
+S284,String,8
+S284,Tree,1
+S284,Two Pointers,1
+S284,nan,3
+S285,Array,47
+S285,Binary Search,1
+S285,Database,8
+S285,Depth-First Search,1
+S285,Hash Table,8
+S285,Linked List,1
+S285,Math,9
+S285,String,4
+S285,Tree,3
+S285,Two Pointers,2
+S285,nan,2
+S286,Array,61
+S286,Binary Search,1
+S286,Bit Manipulation,1
+S286,Breadth-First Search,1
+S286,Database,9
+S286,Depth-First Search,1
+S286,Divide and Conquer,1
+S286,Dynamic Programming,1
+S286,Graph,1
+S286,Hash Table,5
+S286,Linked List,3
+S286,Math,4
+S286,Stack,1
+S286,String,9
+S286,Tree,5
+S286,Trie,1
+S286,Two Pointers,2
+S286,nan,2
+S287,Array,48
+S287,Concurrency,2
+S287,Database,10
+S287,Design,1
+S287,Dynamic Programming,4
+S287,Hash Table,9
+S287,Linked List,1
+S287,Math,9
+S287,String,6
+S287,Tree,5
+S287,Two Pointers,4
+S287,nan,4
+S288,Array,45
+S288,Database,12
+S288,Depth-First Search,1
+S288,Dynamic Programming,4
+S288,Hash Table,9
+S288,Math,10
+S288,Stack,2
+S288,String,10
+S288,Tree,4
+S288,Two Pointers,6
+S288,nan,2
+S289,Array,66
+S289,Bit Manipulation,1
+S289,Database,10
+S289,Dynamic Programming,1
+S289,Graph,2
+S289,Hash Table,9
+S289,Linked List,1
+S289,Math,9
+S289,Shell,1
+S289,String,7
+S289,Tree,4
+S289,Two Pointers,4
+S289,nan,2
+S290,Array,43
+S290,Database,3
+S290,Depth-First Search,1
+S290,Dynamic Programming,2
+S290,Hash Table,5
+S290,Linked List,2
+S290,Math,5
+S290,Shell,1
+S290,String,5
+S290,Tree,3
+S290,Two Pointers,3
+S290,nan,3
+S291,Array,38
+S291,Bit Manipulation,3
+S291,Database,12
+S291,Graph,1
+S291,Hash Table,7
+S291,Linked List,1
+S291,Math,12
+S291,Stack,3
+S291,String,14
+S291,Tree,1
+S291,Two Pointers,1
+S291,nan,3
+S292,Array,46
+S292,Bit Manipulation,1
+S292,Database,8
+S292,Depth-First Search,1
+S292,Dynamic Programming,1
+S292,Hash Table,6
+S292,Linked List,2
+S292,Math,8
+S292,String,7
+S292,Tree,4
+S292,Two Pointers,2
+S292,nan,4
+S293,Array,50
+S293,Breadth-First Search,1
+S293,Database,10
+S293,Depth-First Search,1
+S293,Hash Table,3
+S293,Math,11
+S293,Stack,1
+S293,String,4
+S293,Tree,5
+S293,nan,4
+S294,Array,62
+S294,Database,11
+S294,Depth-First Search,1
+S294,Dynamic Programming,1
+S294,Hash Table,2
+S294,Linked List,3
+S294,Math,5
+S294,Stack,1
+S294,String,6
+S294,Tree,3
+S294,Two Pointers,3
+S294,nan,6
+S295,Array,37
+S295,Binary Search,1
+S295,Database,5
+S295,Hash Table,5
+S295,Math,5
+S295,Stack,1
+S295,String,13
+S295,Tree,2
+S295,Two Pointers,5
+S296,Array,56
+S296,Backtracking,1
+S296,Bit Manipulation,2
+S296,Database,10
+S296,Design,1
+S296,Divide and Conquer,1
+S296,Graph,1
+S296,Hash Table,10
+S296,Linked List,1
+S296,Math,14
+S296,String,14
+S296,Tree,4
+S296,Two Pointers,2
+S296,nan,5
+S297,Array,42
+S297,Concurrency,1
+S297,Database,5
+S297,Depth-First Search,1
+S297,Divide and Conquer,1
+S297,Graph,2
+S297,Hash Table,7
+S297,Linked List,2
+S297,Math,13
+S297,Stack,1
+S297,String,6
+S297,Tree,2
+S297,Two Pointers,2
+S297,nan,2
+S298,Array,51
+S298,Binary Search,1
+S298,Bit Manipulation,2
+S298,Concurrency,1
+S298,Database,10
+S298,Dynamic Programming,2
+S298,Hash Table,6
+S298,Linked List,2
+S298,Math,8
+S298,String,6
+S298,Tree,7
+S298,Two Pointers,1
+S298,nan,3
+S299,Array,33
+S299,Database,4
+S299,Depth-First Search,2
+S299,Hash Table,7
+S299,Linked List,2
+S299,Math,7
+S299,Stack,1
+S299,String,10
+S299,Tree,5
+S299,nan,2
+S300,Array,31
+S300,Bit Manipulation,1
+S300,Database,7
+S300,Dynamic Programming,1
+S300,Hash Table,2
+S300,Linked List,1
+S300,Math,6
+S300,Stack,1
+S300,String,7
+S300,Tree,1
+S300,nan,4
+S301,Array,49
+S301,Database,9
+S301,Dynamic Programming,1
+S301,Hash Table,6
+S301,Linked List,1
+S301,Math,6
+S301,String,6
+S301,Tree,3
+S301,Two Pointers,1
+S301,Union Find,1
+S301,nan,3
+S302,Array,60
+S302,Bit Manipulation,1
+S302,Database,7
+S302,Divide and Conquer,1
+S302,Graph,1
+S302,Hash Table,4
+S302,Linked List,1
+S302,Math,13
+S302,Stack,2
+S302,String,6
+S302,Tree,3
+S302,Two Pointers,1
+S302,nan,4
+S303,Array,42
+S303,Database,10
+S303,Dynamic Programming,1
+S303,Graph,1
+S303,Hash Table,8
+S303,Math,8
+S303,String,7
+S303,Tree,4
+S303,Two Pointers,5
+S304,Array,65
+S304,Database,12
+S304,Depth-First Search,1
+S304,Divide and Conquer,1
+S304,Dynamic Programming,2
+S304,Graph,1
+S304,Hash Table,5
+S304,Linked List,2
+S304,Math,12
+S304,Stack,1
+S304,String,7
+S304,Tree,4
+S304,Union Find,1
+S304,nan,5
+S305,Array,57
+S305,Database,3
+S305,Divide and Conquer,1
+S305,Dynamic Programming,2
+S305,Greedy,1
+S305,Hash Table,18
+S305,Linked List,1
+S305,Math,8
+S305,Stack,2
+S305,String,14
+S305,Tree,4
+S305,Two Pointers,1
+S305,nan,1
+S306,Array,35
+S306,Database,10
+S306,Dynamic Programming,1
+S306,Greedy,1
+S306,Hash Table,4
+S306,Linked List,3
+S306,Math,11
+S306,String,10
+S306,Tree,3
+S306,Two Pointers,2
+S306,nan,2
+S307,Array,48
+S307,Database,4
+S307,Dynamic Programming,3
+S307,Hash Table,6
+S307,Linked List,1
+S307,Math,4
+S307,Stack,1
+S307,String,9
+S307,Tree,2
+S307,Two Pointers,4
+S307,nan,7
+S308,Array,59
+S308,Binary Search,1
+S308,Bit Manipulation,1
+S308,Database,10
+S308,Graph,2
+S308,Hash Table,8
+S308,Linked List,1
+S308,Math,11
+S308,Stack,1
+S308,String,17
+S308,Tree,5
+S308,Two Pointers,1
+S308,nan,7
+S309,Array,66
+S309,Backtracking,1
+S309,Bit Manipulation,2
+S309,Breadth-First Search,1
+S309,Concurrency,1
+S309,Database,9
+S309,Design,1
+S309,Dynamic Programming,1
+S309,Hash Table,4
+S309,Linked List,2
+S309,Math,8
+S309,Sorting,1
+S309,String,9
+S309,Tree,5
+S309,nan,1
+S310,Array,51
+S310,Binary Search,1
+S310,Bit Manipulation,1
+S310,Database,5
+S310,Dynamic Programming,4
+S310,Hash Table,10
+S310,Linked List,1
+S310,Math,15
+S310,Stack,2
+S310,String,14
+S310,Tree,7
+S310,Two Pointers,3
+S310,nan,5
+S311,Array,44
+S311,Binary Search,1
+S311,Database,7
+S311,Hash Table,8
+S311,Linked List,1
+S311,Math,6
+S311,Stack,1
+S311,String,13
+S311,Tree,4
+S311,Two Pointers,1
+S311,nan,4
+S312,Array,50
+S312,Database,8
+S312,Divide and Conquer,2
+S312,Dynamic Programming,1
+S312,Hash Table,3
+S312,Linked List,1
+S312,Math,6
+S312,Shell,1
+S312,String,6
+S312,Tree,2
+S312,Two Pointers,1
+S313,Array,47
+S313,Bit Manipulation,2
+S313,Database,7
+S313,Dynamic Programming,3
+S313,Hash Table,7
+S313,Linked List,1
+S313,Math,10
+S313,String,7
+S313,Tree,6
+S313,Two Pointers,3
+S313,nan,4
+S314,Array,67
+S314,Database,14
+S314,Depth-First Search,1
+S314,Dynamic Programming,2
+S314,Hash Table,10
+S314,Math,6
+S314,Stack,1
+S314,String,7
+S314,Two Pointers,1
+S314,nan,1
+S315,Array,42
+S315,Bit Manipulation,2
+S315,Database,5
+S315,Dynamic Programming,1
+S315,Hash Table,4
+S315,Linked List,1
+S315,Math,5
+S315,Shell,1
+S315,String,8
+S315,Tree,5
+S315,nan,3
+S316,Array,55
+S316,Bit Manipulation,1
+S316,Database,8
+S316,Dynamic Programming,3
+S316,Greedy,1
+S316,Hash Table,6
+S316,Linked List,2
+S316,Math,5
+S316,String,4
+S316,Tree,5
+S316,Two Pointers,1
+S316,nan,4
+S317,Array,58
+S317,Backtracking,1
+S317,Binary Search,1
+S317,Bit Manipulation,1
+S317,Database,8
+S317,Depth-First Search,1
+S317,Design,1
+S317,Graph,1
+S317,Hash Table,10
+S317,Math,6
+S317,Shell,1
+S317,String,12
+S317,Two Pointers,2
+S317,nan,1
+S318,Array,67
+S318,Backtracking,1
+S318,Binary Search,1
+S318,Bit Manipulation,1
+S318,Concurrency,1
+S318,Database,6
+S318,Depth-First Search,1
+S318,Divide and Conquer,1
+S318,Dynamic Programming,1
+S318,Hash Table,8
+S318,Linked List,1
+S318,Math,6
+S318,String,14
+S318,Tree,6
+S318,Two Pointers,3
+S318,nan,1
+S319,Array,42
+S319,Binary Search,1
+S319,Bit Manipulation,1
+S319,Database,11
+S319,Design,1
+S319,Dynamic Programming,1
+S319,Graph,1
+S319,Hash Table,7
+S319,Linked List,1
+S319,Math,9
+S319,String,2
+S319,Tree,1
+S319,Two Pointers,2
+S319,nan,5
+S320,Array,57
+S320,Backtracking,2
+S320,Bit Manipulation,2
+S320,Database,11
+S320,Depth-First Search,2
+S320,Dynamic Programming,1
+S320,Hash Table,3
+S320,Linked List,2
+S320,Math,6
+S320,Stack,2
+S320,String,5
+S320,Tree,5
+S320,Two Pointers,3
+S320,nan,3
+S321,Array,57
+S321,Database,13
+S321,Design,1
+S321,Graph,2
+S321,Hash Table,6
+S321,Linked List,1
+S321,Math,12
+S321,String,9
+S321,Tree,5
+S321,Two Pointers,1
+S321,nan,6
+S322,Array,38
+S322,Binary Search,2
+S322,Bit Manipulation,1
+S322,Database,6
+S322,Depth-First Search,3
+S322,Dynamic Programming,1
+S322,Greedy,1
+S322,Hash Table,7
+S322,Math,6
+S322,String,8
+S322,Tree,4
+S322,Trie,1
+S322,Two Pointers,3
+S322,Union Find,1
+S322,nan,2
+S323,Array,50
+S323,Backtracking,1
+S323,Database,7
+S323,Dynamic Programming,1
+S323,Enumeration,1
+S323,Hash Table,4
+S323,Linked List,2
+S323,Math,11
+S323,String,5
+S323,Tree,3
+S323,Two Pointers,1
+S323,nan,4
+S324,Array,49
+S324,Backtracking,1
+S324,Binary Search,3
+S324,Database,7
+S324,Dynamic Programming,1
+S324,Hash Table,11
+S324,Math,6
+S324,Shell,1
+S324,String,4
+S324,Tree,4
+S324,Two Pointers,1
+S324,nan,8
+S325,Array,46
+S325,Bit Manipulation,1
+S325,Database,8
+S325,Depth-First Search,1
+S325,Design,1
+S325,Dynamic Programming,2
+S325,Hash Table,7
+S325,Math,7
+S325,String,11
+S325,Tree,3
+S325,Two Pointers,3
+S325,Union Find,1
+S325,nan,6
+S326,Array,37
+S326,Database,14
+S326,Dynamic Programming,1
+S326,Hash Table,9
+S326,Linked List,4
+S326,Math,17
+S326,String,9
+S326,Tree,3
+S326,Two Pointers,2
+S326,nan,1
+S327,Array,65
+S327,Backtracking,1
+S327,Binary Search,2
+S327,Database,4
+S327,Graph,1
+S327,Hash Table,4
+S327,Linked List,3
+S327,Math,14
+S327,Stack,1
+S327,String,15
+S327,Tree,5
+S327,Two Pointers,1
+S327,nan,6
+S328,Array,53
+S328,Binary Search,1
+S328,Concurrency,1
+S328,Database,8
+S328,Dynamic Programming,1
+S328,Hash Table,11
+S328,Linked List,1
+S328,Math,3
+S328,String,5
+S328,Tree,5
+S328,Two Pointers,1
+S328,nan,2
+S329,Array,54
+S329,Binary Search,1
+S329,Bit Manipulation,4
+S329,Database,14
+S329,Dynamic Programming,2
+S329,Hash Table,8
+S329,Linked List,3
+S329,Math,5
+S329,String,9
+S329,Tree,5
+S329,Two Pointers,2
+S329,nan,2
+S330,Array,51
+S330,Database,8
+S330,Dynamic Programming,1
+S330,Graph,1
+S330,Hash Table,6
+S330,Math,5
+S330,String,9
+S330,Tree,3
+S330,Two Pointers,2
+S330,nan,2
+S331,Array,43
+S331,Binary Search,1
+S331,Database,11
+S331,Dynamic Programming,2
+S331,Hash Table,10
+S331,Linked List,1
+S331,Math,10
+S331,Shell,1
+S331,Stack,1
+S331,String,9
+S331,Tree,4
+S331,Two Pointers,1
+S331,nan,6
+S332,Array,47
+S332,Bit Manipulation,2
+S332,Database,4
+S332,Dynamic Programming,3
+S332,Greedy,1
+S332,Hash Table,5
+S332,Linked List,2
+S332,Math,5
+S332,Sorting,1
+S332,String,6
+S332,Tree,1
+S332,Two Pointers,2
+S332,nan,4
+S333,Array,43
+S333,Database,15
+S333,Hash Table,6
+S333,Math,9
+S333,String,13
+S333,Tree,2
+S333,Two Pointers,4
+S333,nan,5
+S334,Array,44
+S334,Database,5
+S334,Depth-First Search,1
+S334,Design,1
+S334,Dynamic Programming,2
+S334,Hash Table,3
+S334,Linked List,2
+S334,Math,8
+S334,Stack,2
+S334,String,3
+S334,Tree,6
+S334,Two Pointers,2
+S334,nan,3
+S335,Array,51
+S335,Binary Search,1
+S335,Database,8
+S335,Dynamic Programming,2
+S335,Hash Table,10
+S335,Math,14
+S335,String,7
+S335,Tree,6
+S335,nan,5
+S336,Array,53
+S336,Database,12
+S336,Depth-First Search,1
+S336,Dynamic Programming,1
+S336,Hash Table,10
+S336,Math,9
+S336,Stack,1
+S336,String,8
+S336,Tree,4
+S336,Two Pointers,1
+S336,Union Find,1
+S336,nan,1
+S337,Array,57
+S337,Database,15
+S337,Dynamic Programming,2
+S337,Hash Table,6
+S337,Linked List,3
+S337,Math,9
+S337,String,13
+S337,Tree,5
+S337,Two Pointers,3
+S338,Array,50
+S338,Bit Manipulation,1
+S338,Database,7
+S338,Depth-First Search,1
+S338,Dynamic Programming,1
+S338,Graph,1
+S338,Hash Table,9
+S338,Linked List,1
+S338,Math,8
+S338,Stack,1
+S338,String,10
+S338,Tree,3
+S338,Two Pointers,3
+S338,nan,3
+S339,Array,49
+S339,Binary Search,1
+S339,Bit Manipulation,1
+S339,Database,6
+S339,Depth-First Search,1
+S339,Dynamic Programming,2
+S339,Hash Table,9
+S339,Linked List,2
+S339,Math,7
+S339,String,10
+S339,Tree,2
+S339,nan,4
+S340,Array,54
+S340,Bit Manipulation,1
+S340,Database,15
+S340,Design,1
+S340,Hash Table,4
+S340,Math,13
+S340,Shell,1
+S340,Sorting,1
+S340,String,7
+S340,Tree,2
+S340,Two Pointers,3
+S340,nan,5
+S341,Array,45
+S341,Concurrency,1
+S341,Database,11
+S341,Dynamic Programming,1
+S341,Hash Table,5
+S341,Math,5
+S341,Shell,1
+S341,Stack,1
+S341,String,5
+S341,Tree,2
+S341,Two Pointers,1
+S341,nan,6
+S342,Array,26
+S342,Backtracking,1
+S342,Binary Search,1
+S342,Bit Manipulation,2
+S342,Database,10
+S342,Design,1
+S342,Hash Table,5
+S342,Math,5
+S342,Stack,1
+S342,String,6
+S342,Tree,3
+S342,nan,2
+S343,Array,41
+S343,Binary Search,1
+S343,Database,9
+S343,Depth-First Search,1
+S343,Divide and Conquer,1
+S343,Dynamic Programming,1
+S343,Hash Table,9
+S343,Math,10
+S343,Shell,1
+S343,String,11
+S343,Tree,3
+S343,Two Pointers,1
+S343,nan,1
+S344,Array,36
+S344,Bit Manipulation,3
+S344,Database,16
+S344,Dynamic Programming,1
+S344,Hash Table,6
+S344,Linked List,1
+S344,Math,10
+S344,Shell,1
+S344,String,13
+S344,Tree,6
+S344,Two Pointers,2
+S344,nan,5
+S345,Array,28
+S345,Backtracking,1
+S345,Bit Manipulation,1
+S345,Database,13
+S345,Dynamic Programming,2
+S345,Graph,1
+S345,Hash Table,4
+S345,Linked List,2
+S345,Math,8
+S345,Stack,1
+S345,String,12
+S345,Tree,2
+S345,Two Pointers,2
+S345,nan,3
+S346,Array,50
+S346,Bit Manipulation,2
+S346,Database,15
+S346,Depth-First Search,1
+S346,Hash Table,6
+S346,Linked List,2
+S346,Math,10
+S346,Stack,1
+S346,String,9
+S346,Tree,5
+S346,Two Pointers,3
+S346,Union Find,1
+S346,nan,4
+S347,Array,50
+S347,Concurrency,1
+S347,Database,11
+S347,Depth-First Search,2
+S347,Graph,3
+S347,Hash Table,5
+S347,Linked List,1
+S347,Math,11
+S347,String,13
+S347,Tree,7
+S348,Array,65
+S348,Database,12
+S348,Depth-First Search,1
+S348,Dynamic Programming,2
+S348,Graph,2
+S348,Hash Table,9
+S348,Linked List,1
+S348,Math,6
+S348,Shell,1
+S348,String,6
+S348,Tree,4
+S348,Two Pointers,3
+S348,nan,1
+S349,Array,45
+S349,Binary Search,1
+S349,Concurrency,1
+S349,Database,9
+S349,Depth-First Search,1
+S349,Graph,1
+S349,Hash Table,2
+S349,Linked List,2
+S349,Math,6
+S349,Stack,1
+S349,String,4
+S349,Tree,3
+S349,nan,2
+S350,Array,48
+S350,Database,4
+S350,Depth-First Search,2
+S350,Dynamic Programming,1
+S350,Graph,1
+S350,Hash Table,5
+S350,Math,5
+S350,Stack,1
+S350,String,4
+S350,Tree,4
+S350,Two Pointers,1
+S350,Union Find,1
+S350,nan,2
+S351,Array,52
+S351,Bit Manipulation,1
+S351,Database,7
+S351,Divide and Conquer,1
+S351,Hash Table,8
+S351,Math,9
+S351,Shell,1
+S351,String,11
+S351,Tree,4
+S351,Two Pointers,5
+S351,nan,9
+S352,Array,44
+S352,Database,11
+S352,Hash Table,4
+S352,Linked List,1
+S352,Math,12
+S352,Shell,1
+S352,Stack,1
+S352,String,7
+S352,Tree,1
+S352,Two Pointers,3
+S352,Union Find,1
+S352,nan,1
+S353,Array,39
+S353,Database,12
+S353,Design,1
+S353,Dynamic Programming,1
+S353,Hash Table,6
+S353,Linked List,2
+S353,Math,10
+S353,Stack,2
+S353,String,4
+S353,Two Pointers,2
+S353,nan,3
+S354,Array,53
+S354,Backtracking,1
+S354,Database,9
+S354,Hash Table,7
+S354,Linked List,1
+S354,Math,12
+S354,String,8
+S354,Tree,4
+S354,Two Pointers,1
+S354,nan,6
+S355,Array,47
+S355,Database,8
+S355,Design,1
+S355,Dynamic Programming,2
+S355,Hash Table,6
+S355,Linked List,3
+S355,Math,10
+S355,String,5
+S355,Tree,5
+S355,nan,4
+S356,Array,56
+S356,Bit Manipulation,1
+S356,Database,13
+S356,Dynamic Programming,2
+S356,Hash Table,2
+S356,Linked List,2
+S356,Math,8
+S356,String,10
+S356,Tree,2
+S356,nan,2
+S357,Array,44
+S357,Backtracking,2
+S357,Binary Search,2
+S357,Bit Manipulation,1
+S357,Concurrency,1
+S357,Database,12
+S357,Depth-First Search,1
+S357,Design,1
+S357,Dynamic Programming,3
+S357,Graph,2
+S357,Hash Table,6
+S357,Math,11
+S357,Shell,1
+S357,String,5
+S357,Tree,1
+S357,nan,1
+S358,Array,52
+S358,Backtracking,1
+S358,Binary Search,1
+S358,Concurrency,1
+S358,Database,7
+S358,Divide and Conquer,1
+S358,Dynamic Programming,2
+S358,Hash Table,13
+S358,Linked List,4
+S358,Math,8
+S358,String,9
+S358,Tree,2
+S358,Two Pointers,2
+S358,nan,3
+S359,Array,49
+S359,Backtracking,1
+S359,Binary Search,1
+S359,Concurrency,1
+S359,Database,9
+S359,Depth-First Search,3
+S359,Hash Table,6
+S359,Math,6
+S359,String,9
+S359,Tree,2
+S359,nan,6
+S360,Array,53
+S360,Backtracking,1
+S360,Bit Manipulation,2
+S360,Breadth-First Search,1
+S360,Database,11
+S360,Depth-First Search,1
+S360,Graph,1
+S360,Greedy,1
+S360,Hash Table,6
+S360,Linked List,2
+S360,Math,7
+S360,String,6
+S360,Tree,4
+S360,nan,2
+S361,Array,51
+S361,Backtracking,1
+S361,Binary Search,1
+S361,Bit Manipulation,1
+S361,Database,11
+S361,Design,1
+S361,Divide and Conquer,1
+S361,Dynamic Programming,3
+S361,Hash Table,8
+S361,Math,13
+S361,Shell,1
+S361,String,12
+S361,Tree,1
+S361,Two Pointers,5
+S361,nan,1
+S362,Array,54
+S362,Backtracking,1
+S362,Bit Manipulation,1
+S362,Database,11
+S362,Depth-First Search,2
+S362,Dynamic Programming,1
+S362,Hash Table,4
+S362,Math,10
+S362,Stack,1
+S362,String,9
+S362,Tree,5
+S362,Two Pointers,1
+S362,nan,7
+S363,Array,61
+S363,Database,5
+S363,Depth-First Search,2
+S363,Dynamic Programming,1
+S363,Hash Table,4
+S363,Math,6
+S363,Stack,1
+S363,String,11
+S363,Tree,2
+S363,Two Pointers,1
+S363,Union Find,1
+S363,nan,2
+S364,Array,54
+S364,Binary Search,1
+S364,Database,11
+S364,Depth-First Search,1
+S364,Hash Table,7
+S364,Math,12
+S364,String,6
+S364,Tree,2
+S364,Two Pointers,2
+S364,nan,6
+S365,Array,46
+S365,Backtracking,1
+S365,Binary Search,1
+S365,Database,11
+S365,Depth-First Search,1
+S365,Dynamic Programming,1
+S365,Hash Table,5
+S365,Linked List,1
+S365,Math,10
+S365,String,11
+S365,Two Pointers,2
+S365,nan,1
+S366,Array,34
+S366,Backtracking,1
+S366,Binary Search,4
+S366,Database,5
+S366,Depth-First Search,1
+S366,Hash Table,3
+S366,Linked List,1
+S366,Math,10
+S366,Shell,2
+S366,Stack,1
+S366,String,9
+S366,Tree,6
+S366,Two Pointers,1
+S366,nan,1
+S367,Array,44
+S367,Binary Search,1
+S367,Database,12
+S367,Depth-First Search,2
+S367,Dynamic Programming,3
+S367,Hash Table,9
+S367,Linked List,1
+S367,Math,6
+S367,String,5
+S367,Tree,3
+S367,Two Pointers,1
+S368,Array,56
+S368,Bit Manipulation,1
+S368,Database,9
+S368,Divide and Conquer,1
+S368,Dynamic Programming,1
+S368,Hash Table,3
+S368,Linked List,2
+S368,Math,9
+S368,String,12
+S368,Tree,4
+S368,Union Find,1
+S368,nan,3
+S369,Array,41
+S369,Bit Manipulation,1
+S369,Concurrency,1
+S369,Database,8
+S369,Depth-First Search,2
+S369,Design,1
+S369,Dynamic Programming,2
+S369,Hash Table,5
+S369,Math,6
+S369,Shell,1
+S369,String,6
+S369,Tree,3
+S369,Two Pointers,3
+S369,nan,1
+S370,Array,26
+S370,Bit Manipulation,1
+S370,Database,8
+S370,Dynamic Programming,2
+S370,Hash Table,3
+S370,Math,3
+S370,Stack,1
+S370,String,11
+S370,Tree,5
+S370,Two Pointers,2
+S370,nan,2
+S371,Array,39
+S371,Bit Manipulation,1
+S371,Database,10
+S371,Design,1
+S371,Graph,1
+S371,Hash Table,8
+S371,Linked List,2
+S371,Math,10
+S371,Shell,1
+S371,Stack,2
+S371,String,5
+S371,Tree,1
+S371,Two Pointers,3
+S371,Union Find,1
+S372,Array,52
+S372,Binary Search,3
+S372,Database,4
+S372,Depth-First Search,1
+S372,Dynamic Programming,1
+S372,Hash Table,5
+S372,Linked List,1
+S372,Math,8
+S372,Shell,1
+S372,String,12
+S372,Tree,3
+S372,Two Pointers,1
+S372,nan,2
+S373,Array,65
+S373,Binary Search,1
+S373,Bit Manipulation,1
+S373,Database,12
+S373,Depth-First Search,1
+S373,Dynamic Programming,1
+S373,Hash Table,4
+S373,Linked List,1
+S373,Math,4
+S373,Stack,2
+S373,String,5
+S373,Tree,5
+S373,Two Pointers,6
+S373,nan,4
+S374,Array,61
+S374,Binary Search,1
+S374,Bit Manipulation,1
+S374,Concurrency,1
+S374,Database,14
+S374,Depth-First Search,2
+S374,Graph,1
+S374,Hash Table,7
+S374,Linked List,4
+S374,Math,12
+S374,String,8
+S374,Tree,2
+S374,Two Pointers,2
+S374,nan,4
+S375,Array,40
+S375,Database,7
+S375,Dynamic Programming,2
+S375,Hash Table,5
+S375,Linked List,1
+S375,Math,6
+S375,String,12
+S375,Tree,1
+S375,nan,1
+S376,Array,53
+S376,Binary Search,1
+S376,Database,13
+S376,Depth-First Search,3
+S376,Hash Table,8
+S376,Linked List,1
+S376,Math,11
+S376,Shell,1
+S376,Stack,3
+S376,String,10
+S376,Tree,4
+S376,Two Pointers,1
+S376,nan,4
+S377,Array,56
+S377,Bit Manipulation,1
+S377,Concurrency,2
+S377,Database,2
+S377,Graph,1
+S377,Hash Table,4
+S377,Linked List,1
+S377,Math,5
+S377,String,8
+S377,Tree,3
+S377,nan,5
+S378,Array,57
+S378,Bit Manipulation,4
+S378,Breadth-First Search,1
+S378,Database,13
+S378,Dynamic Programming,2
+S378,Hash Table,5
+S378,Linked List,4
+S378,Math,6
+S378,String,7
+S378,Tree,2
+S378,Two Pointers,1
+S378,Union Find,1
+S378,nan,5
+S379,Array,55
+S379,Concurrency,1
+S379,Database,3
+S379,Hash Table,4
+S379,Linked List,1
+S379,Math,7
+S379,Stack,3
+S379,String,8
+S379,Two Pointers,3
+S379,nan,1
+S380,Array,45
+S380,Bit Manipulation,2
+S380,Database,8
+S380,Depth-First Search,3
+S380,Dynamic Programming,5
+S380,Hash Table,6
+S380,Linked List,2
+S380,Math,9
+S380,String,10
+S380,Tree,6
+S380,Two Pointers,2
+S380,nan,3
+S381,Array,39
+S381,Database,7
+S381,Dynamic Programming,1
+S381,Hash Table,10
+S381,Linked List,2
+S381,Math,14
+S381,Stack,1
+S381,String,12
+S381,Tree,4
+S381,Two Pointers,1
+S381,nan,2
+S382,Array,40
+S382,Database,6
+S382,Depth-First Search,1
+S382,Graph,1
+S382,Hash Table,2
+S382,Linked List,1
+S382,Math,5
+S382,String,4
+S382,Tree,1
+S382,Two Pointers,3
+S382,nan,2
+S383,Array,35
+S383,Bit Manipulation,1
+S383,Database,7
+S383,Depth-First Search,1
+S383,Hash Table,3
+S383,Linked List,1
+S383,Math,8
+S383,String,9
+S383,Tree,4
+S383,Two Pointers,1
+S383,nan,1
+S384,Array,37
+S384,Database,2
+S384,Depth-First Search,1
+S384,Dynamic Programming,4
+S384,Graph,1
+S384,Hash Table,8
+S384,Linked List,3
+S384,Math,8
+S384,Stack,1
+S384,String,13
+S384,Tree,3
+S384,Two Pointers,2
+S384,nan,5
+S385,Array,54
+S385,Binary Search,1
+S385,Bit Manipulation,1
+S385,Concurrency,1
+S385,Database,5
+S385,Depth-First Search,1
+S385,Divide and Conquer,1
+S385,Dynamic Programming,3
+S385,Hash Table,7
+S385,Linked List,2
+S385,Math,9
+S385,Stack,1
+S385,String,14
+S385,Tree,1
+S385,Two Pointers,1
+S385,nan,1
+S386,Array,46
+S386,Database,7
+S386,Dynamic Programming,3
+S386,Graph,1
+S386,Hash Table,1
+S386,Linked List,1
+S386,Math,10
+S386,String,11
+S386,Tree,2
+S386,nan,1
+S387,Array,55
+S387,Concurrency,1
+S387,Database,3
+S387,Depth-First Search,1
+S387,Design,3
+S387,Dynamic Programming,2
+S387,Greedy,1
+S387,Hash Table,5
+S387,Linked List,1
+S387,Math,11
+S387,String,12
+S387,Tree,3
+S387,Two Pointers,2
+S387,nan,2
+S388,Array,48
+S388,Database,9
+S388,Depth-First Search,1
+S388,Divide and Conquer,1
+S388,Dynamic Programming,1
+S388,Hash Table,14
+S388,Math,2
+S388,String,11
+S388,Tree,2
+S388,Two Pointers,2
+S388,nan,2
+S389,Array,51
+S389,Binary Search,1
+S389,Database,11
+S389,Divide and Conquer,1
+S389,Dynamic Programming,3
+S389,Graph,1
+S389,Hash Table,12
+S389,Linked List,3
+S389,Math,4
+S389,String,15
+S389,Tree,4
+S389,Two Pointers,4
+S389,nan,3
+S390,Array,65
+S390,Binary Search,2
+S390,Bit Manipulation,2
+S390,Database,13
+S390,Depth-First Search,1
+S390,Design,1
+S390,Dynamic Programming,1
+S390,Hash Table,6
+S390,Linked List,2
+S390,Math,5
+S390,Shell,1
+S390,String,4
+S390,Tree,5
+S390,Two Pointers,3
+S390,nan,2
+S391,Array,36
+S391,Bit Manipulation,1
+S391,Breadth-First Search,1
+S391,Database,9
+S391,Depth-First Search,1
+S391,Hash Table,8
+S391,Math,6
+S391,Stack,1
+S391,String,7
+S391,Tree,6
+S391,Two Pointers,2
+S391,Union Find,1
+S391,nan,3
+S392,Array,70
+S392,Database,6
+S392,Dynamic Programming,1
+S392,Hash Table,12
+S392,Linked List,3
+S392,Math,11
+S392,Shell,1
+S392,Stack,1
+S392,String,10
+S392,Tree,2
+S392,Two Pointers,2
+S392,nan,1
+S393,Array,55
+S393,Database,12
+S393,Depth-First Search,1
+S393,Dynamic Programming,1
+S393,Hash Table,5
+S393,Linked List,3
+S393,Math,10
+S393,String,14
+S393,Tree,7
+S393,Two Pointers,1
+S393,nan,6
+S394,Array,44
+S394,Backtracking,1
+S394,Bit Manipulation,1
+S394,Database,11
+S394,Graph,1
+S394,Hash Table,7
+S394,Math,8
+S394,Stack,2
+S394,String,5
+S394,Two Pointers,2
+S394,nan,2
+S395,Array,62
+S395,Backtracking,1
+S395,Binary Search,1
+S395,Breadth-First Search,1
+S395,Database,8
+S395,Dynamic Programming,3
+S395,Hash Table,7
+S395,Math,11
+S395,Stack,1
+S395,String,7
+S395,Tree,3
+S395,Two Pointers,1
+S395,nan,4
+S396,Array,66
+S396,Backtracking,1
+S396,Breadth-First Search,1
+S396,Database,13
+S396,Dynamic Programming,1
+S396,Graph,1
+S396,Hash Table,5
+S396,Linked List,2
+S396,Math,17
+S396,String,10
+S396,Tree,4
+S396,Two Pointers,5
+S396,nan,2
+S397,Array,51
+S397,Backtracking,1
+S397,Bit Manipulation,1
+S397,Database,11
+S397,Depth-First Search,1
+S397,Divide and Conquer,1
+S397,Hash Table,7
+S397,Linked List,2
+S397,Math,9
+S397,Stack,1
+S397,String,12
+S397,Tree,4
+S397,Two Pointers,2
+S398,Array,56
+S398,Bit Manipulation,1
+S398,Database,11
+S398,Hash Table,1
+S398,Linked List,2
+S398,Math,13
+S398,Stack,1
+S398,String,5
+S398,Tree,4
+S398,nan,2
+S399,Array,42
+S399,Binary Search,1
+S399,Bit Manipulation,1
+S399,Breadth-First Search,1
+S399,Database,11
+S399,Depth-First Search,1
+S399,Design,1
+S399,Hash Table,3
+S399,Linked List,1
+S399,Math,10
+S399,String,9
+S399,nan,4
+S400,Array,34
+S400,Database,11
+S400,Hash Table,5
+S400,Linked List,2
+S400,Math,7
+S400,Shell,1
+S400,String,5
+S400,Tree,3
+S400,Two Pointers,4
+S400,nan,5
+S401,Array,43
+S401,Bit Manipulation,1
+S401,Database,6
+S401,Depth-First Search,1
+S401,Graph,1
+S401,Hash Table,2
+S401,Linked List,1
+S401,Math,8
+S401,String,6
+S401,Tree,2
+S401,Union Find,1
+S401,nan,6
+S402,Array,44
+S402,Binary Search,2
+S402,Database,5
+S402,Design,1
+S402,Dynamic Programming,1
+S402,Graph,1
+S402,Hash Table,2
+S402,Math,9
+S402,Stack,1
+S402,String,11
+S402,Tree,1
+S402,Two Pointers,1
+S402,Union Find,1
+S402,nan,2
+S403,Array,34
+S403,Binary Search,1
+S403,Database,10
+S403,Depth-First Search,2
+S403,Dynamic Programming,1
+S403,Hash Table,4
+S403,Math,10
+S403,Stack,2
+S403,String,8
+S403,Tree,6
+S403,Two Pointers,2
+S403,nan,1
+S404,Array,62
+S404,Concurrency,1
+S404,Database,9
+S404,Dynamic Programming,2
+S404,Hash Table,6
+S404,Linked List,4
+S404,Math,8
+S404,Shell,2
+S404,String,8
+S404,Tree,7
+S404,nan,5
+S405,Array,64
+S405,Binary Search,2
+S405,Database,5
+S405,Design,1
+S405,Dynamic Programming,2
+S405,Hash Table,11
+S405,Math,3
+S405,String,9
+S405,Tree,7
+S405,Two Pointers,2
+S405,nan,7
+S406,Array,52
+S406,Backtracking,1
+S406,Database,4
+S406,Hash Table,11
+S406,Linked List,1
+S406,Math,13
+S406,Stack,3
+S406,String,9
+S406,Tree,1
+S406,nan,4
+S407,Array,66
+S407,Backtracking,1
+S407,Binary Search,2
+S407,Concurrency,1
+S407,Database,9
+S407,Depth-First Search,1
+S407,Hash Table,11
+S407,Linked List,4
+S407,Math,6
+S407,Stack,1
+S407,String,6
+S407,Tree,3
+S407,Two Pointers,2
+S407,nan,3
+S408,Array,40
+S408,Breadth-First Search,1
+S408,Database,10
+S408,Dynamic Programming,1
+S408,Hash Table,7
+S408,Linked List,2
+S408,Math,3
+S408,String,7
+S408,Tree,4
+S408,Two Pointers,2
+S408,nan,2
+S409,Array,54
+S409,Binary Search,1
+S409,Database,7
+S409,Dynamic Programming,2
+S409,Hash Table,13
+S409,Linked List,2
+S409,Math,11
+S409,Shell,1
+S409,Stack,2
+S409,String,6
+S409,Tree,5
+S409,Two Pointers,2
+S409,nan,2
+S410,Array,44
+S410,Bit Manipulation,2
+S410,Database,5
+S410,Hash Table,3
+S410,Linked List,1
+S410,Math,8
+S410,Stack,2
+S410,String,13
+S410,Tree,3
+S410,Two Pointers,2
+S410,nan,5
+S411,Array,40
+S411,Binary Search,1
+S411,Database,12
+S411,Design,1
+S411,Hash Table,6
+S411,Linked List,1
+S411,Math,16
+S411,String,9
+S411,Tree,6
+S411,Two Pointers,2
+S411,Union Find,1
+S411,nan,5
+S412,Array,48
+S412,Bit Manipulation,1
+S412,Database,9
+S412,Depth-First Search,2
+S412,Dynamic Programming,1
+S412,Hash Table,4
+S412,Linked List,1
+S412,Math,5
+S412,String,9
+S412,Tree,2
+S412,nan,2
+S413,Array,59
+S413,Bit Manipulation,1
+S413,Database,12
+S413,Design,2
+S413,Dynamic Programming,1
+S413,Hash Table,8
+S413,Math,7
+S413,String,7
+S413,Tree,4
+S413,Two Pointers,1
+S413,nan,5
+S414,Array,62
+S414,Database,10
+S414,Depth-First Search,1
+S414,Divide and Conquer,1
+S414,Dynamic Programming,4
+S414,Enumeration,1
+S414,Hash Table,3
+S414,Linked List,3
+S414,Math,7
+S414,Stack,2
+S414,String,7
+S414,Tree,7
+S414,Two Pointers,2
+S414,nan,7
+S415,Array,44
+S415,Binary Search,1
+S415,Bit Manipulation,1
+S415,Database,14
+S415,Dynamic Programming,1
+S415,Hash Table,6
+S415,Linked List,1
+S415,Math,5
+S415,String,5
+S415,Tree,3
+S415,nan,3
+S416,Array,62
+S416,Backtracking,1
+S416,Binary Search,1
+S416,Database,10
+S416,Depth-First Search,3
+S416,Dynamic Programming,2
+S416,Hash Table,6
+S416,Math,9
+S416,String,10
+S416,Tree,2
+S416,Two Pointers,3
+S416,nan,1
+S417,Array,50
+S417,Database,12
+S417,Depth-First Search,4
+S417,Design,1
+S417,Dynamic Programming,2
+S417,Hash Table,9
+S417,Linked List,1
+S417,Math,12
+S417,Stack,2
+S417,String,8
+S417,Tree,2
+S417,Two Pointers,1
+S417,nan,4
+S418,Array,52
+S418,Binary Search,1
+S418,Bit Manipulation,2
+S418,Concurrency,1
+S418,Database,16
+S418,Depth-First Search,1
+S418,Hash Table,5
+S418,Linked List,5
+S418,Math,9
+S418,Stack,2
+S418,String,10
+S418,Tree,2
+S418,Two Pointers,2
+S418,nan,4
+S419,Array,62
+S419,Bit Manipulation,1
+S419,Database,14
+S419,Depth-First Search,3
+S419,Dynamic Programming,2
+S419,Graph,2
+S419,Hash Table,9
+S419,Linked List,1
+S419,Math,9
+S419,String,6
+S419,Tree,8
+S419,Two Pointers,1
+S419,nan,2
+S420,Array,71
+S420,Binary Search,1
+S420,Bit Manipulation,2
+S420,Database,14
+S420,Depth-First Search,1
+S420,Divide and Conquer,1
+S420,Dynamic Programming,2
+S420,Hash Table,4
+S420,Math,6
+S420,String,9
+S420,Tree,6
+S420,Two Pointers,4
+S420,nan,10
+S421,Array,57
+S421,Backtracking,1
+S421,Bit Manipulation,1
+S421,Concurrency,1
+S421,Database,11
+S421,Depth-First Search,1
+S421,Dynamic Programming,1
+S421,Hash Table,5
+S421,Linked List,1
+S421,Math,18
+S421,String,10
+S421,Tree,3
+S421,Two Pointers,2
+S421,nan,4
+S422,Array,49
+S422,Concurrency,1
+S422,Database,8
+S422,Divide and Conquer,1
+S422,Dynamic Programming,1
+S422,Hash Table,8
+S422,Linked List,2
+S422,Math,3
+S422,String,7
+S422,Tree,3
+S422,Two Pointers,3
+S422,Union Find,1
+S422,nan,3
+S423,Array,55
+S423,Backtracking,1
+S423,Bit Manipulation,3
+S423,Database,10
+S423,Depth-First Search,3
+S423,Dynamic Programming,2
+S423,Graph,1
+S423,Hash Table,3
+S423,Linked List,2
+S423,Math,7
+S423,String,6
+S423,Tree,2
+S423,Two Pointers,2
+S423,nan,3
+S424,Array,52
+S424,Binary Search,1
+S424,Bit Manipulation,1
+S424,Database,16
+S424,Depth-First Search,1
+S424,Design,1
+S424,Dynamic Programming,1
+S424,Hash Table,6
+S424,Linked List,2
+S424,Math,7
+S424,Shell,1
+S424,Stack,1
+S424,String,9
+S424,Tree,3
+S424,Two Pointers,1
+S424,nan,4
+S425,Array,56
+S425,Binary Search,3
+S425,Database,16
+S425,Depth-First Search,2
+S425,Dynamic Programming,1
+S425,Hash Table,6
+S425,Math,13
+S425,Stack,1
+S425,String,7
+S425,Tree,4
+S425,nan,2
+S426,Array,48
+S426,Binary Search,1
+S426,Bit Manipulation,1
+S426,Database,3
+S426,Depth-First Search,1
+S426,Design,1
+S426,Hash Table,3
+S426,Linked List,4
+S426,Math,15
+S426,Stack,1
+S426,String,10
+S426,Tree,2
+S426,Two Pointers,2
+S426,nan,1
+S427,Array,53
+S427,Database,17
+S427,Hash Table,6
+S427,Linked List,1
+S427,Math,7
+S427,Stack,1
+S427,String,9
+S427,Tree,2
+S427,Two Pointers,1
+S427,nan,1
+S428,Array,49
+S428,Bit Manipulation,1
+S428,Concurrency,1
+S428,Database,9
+S428,Depth-First Search,1
+S428,Dynamic Programming,3
+S428,Hash Table,13
+S428,Math,12
+S428,Stack,1
+S428,String,15
+S428,Two Pointers,1
+S428,Union Find,1
+S428,nan,3
+S429,Array,41
+S429,Bit Manipulation,1
+S429,Concurrency,1
+S429,Database,10
+S429,Hash Table,3
+S429,Linked List,1
+S429,Math,9
+S429,String,1
+S429,Tree,4
+S429,Two Pointers,2
+S429,nan,1
+S430,Array,40
+S430,Binary Search,2
+S430,Database,8
+S430,Depth-First Search,3
+S430,Graph,2
+S430,Hash Table,9
+S430,Linked List,1
+S430,Math,7
+S430,String,6
+S430,Tree,4
+S430,Two Pointers,1
+S430,nan,6
+S431,Array,52
+S431,Binary Search,1
+S431,Bit Manipulation,1
+S431,Database,10
+S431,Depth-First Search,2
+S431,Dynamic Programming,1
+S431,Graph,1
+S431,Hash Table,5
+S431,Math,3
+S431,String,6
+S431,Tree,1
+S431,Two Pointers,2
+S431,nan,3
+S432,Array,56
+S432,Binary Search,1
+S432,Breadth-First Search,1
+S432,Database,6
+S432,Design,1
+S432,Dynamic Programming,1
+S432,Graph,1
+S432,Hash Table,6
+S432,Linked List,1
+S432,Math,3
+S432,Stack,1
+S432,String,13
+S432,Tree,7
+S432,nan,2
+S433,Array,58
+S433,Database,17
+S433,Depth-First Search,2
+S433,Design,1
+S433,Divide and Conquer,1
+S433,Dynamic Programming,2
+S433,Hash Table,10
+S433,Linked List,1
+S433,Math,8
+S433,String,6
+S433,Tree,4
+S433,Two Pointers,2
+S433,nan,3
+S434,Array,62
+S434,Binary Search,1
+S434,Database,6
+S434,Dynamic Programming,2
+S434,Hash Table,10
+S434,Linked List,2
+S434,Math,15
+S434,String,11
+S434,Tree,2
+S434,nan,3
+S435,Array,40
+S435,Database,10
+S435,Depth-First Search,1
+S435,Dynamic Programming,2
+S435,Hash Table,5
+S435,Linked List,1
+S435,Math,7
+S435,Shell,1
+S435,Sorting,1
+S435,String,11
+S435,Tree,3
+S435,nan,3
+S436,Array,46
+S436,Database,10
+S436,Dynamic Programming,2
+S436,Hash Table,7
+S436,Math,5
+S436,Stack,1
+S436,String,11
+S436,Tree,3
+S436,Two Pointers,3
+S436,nan,9
+S437,Array,40
+S437,Binary Search,1
+S437,Bit Manipulation,1
+S437,Database,8
+S437,Dynamic Programming,1
+S437,Hash Table,5
+S437,Linked List,1
+S437,Math,5
+S437,String,12
+S437,Tree,4
+S437,Two Pointers,2
+S438,Array,51
+S438,Bit Manipulation,1
+S438,Concurrency,1
+S438,Database,9
+S438,Design,1
+S438,Hash Table,6
+S438,Linked List,2
+S438,Math,10
+S438,Stack,1
+S438,String,10
+S438,Tree,2
+S438,Two Pointers,1
+S438,Union Find,1
+S438,nan,3
+S439,Array,47
+S439,Database,7
+S439,Depth-First Search,1
+S439,Dynamic Programming,5
+S439,Graph,1
+S439,Hash Table,5
+S439,Linked List,1
+S439,Math,8
+S439,Stack,2
+S439,String,14
+S439,Tree,3
+S439,Two Pointers,4
+S439,nan,2
+S440,Array,46
+S440,Backtracking,1
+S440,Bit Manipulation,1
+S440,Database,10
+S440,Depth-First Search,1
+S440,Dynamic Programming,3
+S440,Enumeration,1
+S440,Graph,1
+S440,Hash Table,5
+S440,Linked List,2
+S440,Math,10
+S440,Shell,1
+S440,Stack,1
+S440,String,6
+S440,Two Pointers,2
+S440,nan,3
+S441,Array,50
+S441,Concurrency,1
+S441,Database,13
+S441,Depth-First Search,1
+S441,Design,1
+S441,Dynamic Programming,2
+S441,Hash Table,4
+S441,Linked List,2
+S441,Math,8
+S441,String,8
+S441,Tree,4
+S441,Two Pointers,2
+S441,nan,5
+S442,Array,38
+S442,Bit Manipulation,1
+S442,Concurrency,1
+S442,Database,12
+S442,Dynamic Programming,5
+S442,Graph,1
+S442,Hash Table,5
+S442,Linked List,1
+S442,Math,8
+S442,Sorting,1
+S442,Stack,4
+S442,String,10
+S442,Tree,7
+S442,Two Pointers,2
+S442,nan,3
+S443,Array,42
+S443,Concurrency,1
+S443,Database,5
+S443,Dynamic Programming,2
+S443,Hash Table,3
+S443,Math,7
+S443,Stack,1
+S443,String,7
+S443,Tree,1
+S443,Two Pointers,2
+S443,nan,2
+S444,Array,33
+S444,Bit Manipulation,2
+S444,Database,6
+S444,Hash Table,4
+S444,Linked List,2
+S444,Math,9
+S444,Stack,3
+S444,String,7
+S444,Tree,1
+S444,nan,3
+S445,Array,31
+S445,Binary Search,1
+S445,Bit Manipulation,2
+S445,Breadth-First Search,1
+S445,Database,8
+S445,Depth-First Search,1
+S445,Greedy,1
+S445,Hash Table,1
+S445,Math,6
+S445,Stack,1
+S445,String,11
+S445,Tree,6
+S445,Two Pointers,2
+S445,nan,2
+S446,Array,49
+S446,Backtracking,1
+S446,Database,8
+S446,Dynamic Programming,1
+S446,Graph,1
+S446,Hash Table,8
+S446,Linked List,2
+S446,Math,5
+S446,String,6
+S446,Tree,1
+S446,Two Pointers,2
+S446,Union Find,1
+S446,nan,3
+S447,Array,40
+S447,Breadth-First Search,1
+S447,Concurrency,1
+S447,Database,7
+S447,Divide and Conquer,1
+S447,Hash Table,4
+S447,Linked List,1
+S447,Math,8
+S447,String,8
+S447,Tree,6
+S447,Two Pointers,2
+S447,nan,3
+S448,Array,50
+S448,Binary Search,1
+S448,Bit Manipulation,1
+S448,Database,11
+S448,Dynamic Programming,2
+S448,Graph,1
+S448,Hash Table,4
+S448,Math,5
+S448,Stack,1
+S448,String,9
+S448,Tree,2
+S448,nan,2
+S449,Array,37
+S449,Bit Manipulation,1
+S449,Database,13
+S449,Dynamic Programming,3
+S449,Hash Table,5
+S449,Math,10
+S449,String,12
+S449,Tree,1
+S449,nan,6
+S450,Array,51
+S450,Backtracking,1
+S450,Binary Search,1
+S450,Bit Manipulation,1
+S450,Database,13
+S450,Depth-First Search,1
+S450,Hash Table,7
+S450,Linked List,2
+S450,Math,3
+S450,Stack,1
+S450,String,5
+S450,Tree,3
+S450,Two Pointers,1
+S450,nan,4
+S451,Array,40
+S451,Database,10
+S451,Hash Table,5
+S451,Math,6
+S451,Stack,1
+S451,String,8
+S451,Tree,4
+S451,Two Pointers,1
+S451,nan,5
+S452,Array,37
+S452,Backtracking,1
+S452,Database,13
+S452,Depth-First Search,1
+S452,Dynamic Programming,2
+S452,Hash Table,7
+S452,Linked List,1
+S452,Math,7
+S452,Stack,1
+S452,String,7
+S452,Tree,1
+S452,Two Pointers,1
+S452,Union Find,1
+S452,nan,2
+S453,Array,83
+S453,Backtracking,1
+S453,Concurrency,1
+S453,Database,7
+S453,Depth-First Search,1
+S453,Dynamic Programming,1
+S453,Hash Table,7
+S453,Linked List,3
+S453,Math,16
+S453,Stack,2
+S453,String,13
+S453,Tree,2
+S453,Two Pointers,1
+S454,Array,43
+S454,Bit Manipulation,1
+S454,Database,7
+S454,Dynamic Programming,1
+S454,Hash Table,8
+S454,Linked List,3
+S454,Math,8
+S454,String,5
+S454,Tree,5
+S454,Two Pointers,1
+S454,nan,6
+S455,Array,46
+S455,Binary Search,1
+S455,Database,8
+S455,Design,3
+S455,Graph,1
+S455,Hash Table,9
+S455,Linked List,2
+S455,Math,21
+S455,String,10
+S455,Tree,4
+S455,Trie,1
+S455,nan,3
+S456,Array,63
+S456,Bit Manipulation,2
+S456,Database,8
+S456,Dynamic Programming,2
+S456,Graph,1
+S456,Hash Table,6
+S456,Math,16
+S456,Shell,1
+S456,String,12
+S456,Tree,4
+S456,Two Pointers,2
+S456,nan,3
+S457,Array,53
+S457,Bit Manipulation,1
+S457,Database,9
+S457,Dynamic Programming,2
+S457,Hash Table,7
+S457,Linked List,1
+S457,Math,11
+S457,String,4
+S457,Tree,2
+S457,Two Pointers,1
+S457,nan,1
+S458,Array,40
+S458,Binary Search,1
+S458,Database,6
+S458,Depth-First Search,1
+S458,Hash Table,6
+S458,Linked List,1
+S458,Math,8
+S458,String,11
+S458,Tree,1
+S458,Two Pointers,4
+S458,nan,3
+S459,Array,47
+S459,Database,15
+S459,Depth-First Search,1
+S459,Dynamic Programming,1
+S459,Hash Table,2
+S459,Linked List,2
+S459,Math,7
+S459,Shell,1
+S459,Sorting,1
+S459,Stack,4
+S459,String,4
+S459,Tree,1
+S459,Two Pointers,2
+S460,Array,48
+S460,Bit Manipulation,1
+S460,Concurrency,1
+S460,Database,13
+S460,Depth-First Search,2
+S460,Divide and Conquer,1
+S460,Dynamic Programming,1
+S460,Hash Table,7
+S460,Linked List,1
+S460,Math,11
+S460,Stack,1
+S460,String,5
+S460,Tree,3
+S460,Two Pointers,3
+S460,nan,6
+S461,Array,42
+S461,Binary Search,1
+S461,Database,17
+S461,Design,1
+S461,Dynamic Programming,1
+S461,Graph,1
+S461,Hash Table,8
+S461,Linked List,1
+S461,Math,8
+S461,Stack,1
+S461,String,11
+S461,Tree,1
+S461,nan,1
+S462,Array,41
+S462,Binary Search,1
+S462,Database,9
+S462,Hash Table,3
+S462,Linked List,5
+S462,Math,11
+S462,String,3
+S462,Tree,5
+S462,Two Pointers,3
+S462,nan,3
+S463,Array,59
+S463,Binary Search,1
+S463,Bit Manipulation,2
+S463,Database,13
+S463,Depth-First Search,1
+S463,Design,1
+S463,Dynamic Programming,2
+S463,Graph,1
+S463,Greedy,1
+S463,Hash Table,6
+S463,Math,16
+S463,Stack,2
+S463,String,9
+S463,Tree,4
+S463,Two Pointers,3
+S463,nan,6
+S464,Array,55
+S464,Binary Search,1
+S464,Bit Manipulation,2
+S464,Database,8
+S464,Depth-First Search,1
+S464,Design,1
+S464,Dynamic Programming,3
+S464,Graph,1
+S464,Hash Table,6
+S464,Math,5
+S464,String,6
+S464,Tree,1
+S464,Two Pointers,3
+S464,Union Find,2
+S464,nan,2
+S465,Array,29
+S465,Bit Manipulation,2
+S465,Database,4
+S465,Depth-First Search,2
+S465,Design,1
+S465,Hash Table,1
+S465,Linked List,1
+S465,Math,4
+S465,Stack,2
+S465,String,10
+S465,Tree,1
+S465,Two Pointers,3
+S465,nan,2
+S466,Array,38
+S466,Binary Search,1
+S466,Bit Manipulation,1
+S466,Database,6
+S466,Depth-First Search,1
+S466,Design,2
+S466,Greedy,1
+S466,Hash Table,8
+S466,Math,9
+S466,Stack,2
+S466,String,4
+S466,Tree,7
+S466,Two Pointers,1
+S466,nan,6
+S467,Array,69
+S467,Binary Search,1
+S467,Breadth-First Search,1
+S467,Database,6
+S467,Dynamic Programming,1
+S467,Hash Table,5
+S467,Math,7
+S467,Shell,2
+S467,String,6
+S467,Tree,4
+S467,Two Pointers,2
+S467,nan,2
+S468,Array,46
+S468,Database,7
+S468,Graph,1
+S468,Hash Table,4
+S468,Math,3
+S468,String,6
+S468,Tree,3
+S468,Two Pointers,3
+S468,nan,1
+S469,Array,62
+S469,Database,9
+S469,Divide and Conquer,1
+S469,Dynamic Programming,2
+S469,Hash Table,7
+S469,Linked List,2
+S469,Math,9
+S469,Stack,2
+S469,String,7
+S469,Tree,2
+S469,Two Pointers,4
+S469,Union Find,1
+S469,nan,3
+S470,Array,50
+S470,Backtracking,1
+S470,Database,5
+S470,Depth-First Search,1
+S470,Hash Table,6
+S470,Math,12
+S470,Stack,1
+S470,String,11
+S470,Tree,5
+S470,Two Pointers,1
+S471,Array,47
+S471,Breadth-First Search,1
+S471,Concurrency,1
+S471,Database,11
+S471,Depth-First Search,1
+S471,Divide and Conquer,1
+S471,Hash Table,7
+S471,Linked List,1
+S471,Math,7
+S471,String,10
+S471,Tree,3
+S471,Two Pointers,3
+S471,nan,6
+S472,Array,45
+S472,Database,9
+S472,Graph,1
+S472,Hash Table,2
+S472,Linked List,3
+S472,Math,7
+S472,String,8
+S472,Tree,2
+S472,nan,2
+S473,Array,32
+S473,Backtracking,2
+S473,Bit Manipulation,2
+S473,Concurrency,1
+S473,Database,8
+S473,Depth-First Search,2
+S473,Hash Table,7
+S473,Math,11
+S473,String,11
+S473,Tree,2
+S473,Two Pointers,2
+S473,nan,4
+S474,Array,42
+S474,Bit Manipulation,1
+S474,Database,12
+S474,Dynamic Programming,2
+S474,Graph,1
+S474,Hash Table,6
+S474,Linked List,1
+S474,Math,6
+S474,String,8
+S474,Tree,3
+S474,Two Pointers,1
+S474,nan,5
+S475,Array,37
+S475,Binary Search,1
+S475,Database,7
+S475,Depth-First Search,1
+S475,Graph,1
+S475,Hash Table,6
+S475,Math,12
+S475,Stack,1
+S475,String,8
+S475,Tree,3
+S475,nan,2
+S476,Array,49
+S476,Bit Manipulation,1
+S476,Concurrency,1
+S476,Database,6
+S476,Dynamic Programming,1
+S476,Greedy,1
+S476,Hash Table,11
+S476,Linked List,1
+S476,Math,8
+S476,Stack,2
+S476,String,12
+S476,Tree,2
+S476,Two Pointers,1
+S476,nan,1
+S477,Array,66
+S477,Database,12
+S477,Depth-First Search,2
+S477,Dynamic Programming,4
+S477,Graph,1
+S477,Hash Table,6
+S477,Linked List,5
+S477,Math,6
+S477,Stack,1
+S477,String,8
+S477,Tree,1
+S477,Two Pointers,2
+S477,nan,1
+S478,Array,55
+S478,Concurrency,1
+S478,Database,11
+S478,Depth-First Search,1
+S478,Design,1
+S478,Graph,1
+S478,Hash Table,4
+S478,Linked List,2
+S478,Math,6
+S478,String,8
+S478,Tree,7
+S478,Two Pointers,3
+S478,nan,5
+S479,Array,48
+S479,Bit Manipulation,1
+S479,Breadth-First Search,1
+S479,Database,9
+S479,Depth-First Search,1
+S479,Dynamic Programming,1
+S479,Hash Table,6
+S479,Linked List,2
+S479,Math,5
+S479,Shell,1
+S479,Sorting,1
+S479,String,7
+S479,Tree,4
+S479,Two Pointers,1
+S479,Union Find,1
+S479,nan,5
+S480,Array,45
+S480,Backtracking,1
+S480,Binary Search,2
+S480,Bit Manipulation,1
+S480,Breadth-First Search,1
+S480,Database,14
+S480,Dynamic Programming,2
+S480,Graph,1
+S480,Hash Table,10
+S480,Linked List,2
+S480,Math,8
+S480,String,7
+S480,Tree,6
+S480,Two Pointers,2
+S480,nan,2
+S481,Array,46
+S481,Bit Manipulation,2
+S481,Database,11
+S481,Design,1
+S481,Dynamic Programming,1
+S481,Hash Table,6
+S481,Math,11
+S481,String,7
+S481,Tree,2
+S481,Two Pointers,1
+S481,nan,4
+S482,Array,54
+S482,Database,11
+S482,Depth-First Search,1
+S482,Dynamic Programming,1
+S482,Hash Table,15
+S482,Linked List,3
+S482,Math,9
+S482,String,10
+S482,Tree,2
+S482,Two Pointers,3
+S482,nan,4
+S483,Array,34
+S483,Database,9
+S483,Depth-First Search,1
+S483,Divide and Conquer,1
+S483,Hash Table,6
+S483,Linked List,1
+S483,Math,9
+S483,Shell,1
+S483,Stack,1
+S483,String,4
+S483,Tree,5
+S483,Two Pointers,1
+S483,nan,1
+S484,Array,46
+S484,Binary Search,1
+S484,Concurrency,1
+S484,Database,7
+S484,Depth-First Search,1
+S484,Dynamic Programming,1
+S484,Hash Table,6
+S484,Linked List,1
+S484,Math,7
+S484,Stack,1
+S484,String,9
+S484,Tree,3
+S484,Two Pointers,2
+S484,nan,5
+S485,Array,49
+S485,Bit Manipulation,1
+S485,Database,9
+S485,Depth-First Search,1
+S485,Dynamic Programming,2
+S485,Enumeration,1
+S485,Graph,1
+S485,Hash Table,10
+S485,Linked List,2
+S485,Math,7
+S485,Stack,1
+S485,String,5
+S485,Tree,4
+S485,Two Pointers,5
+S485,nan,2
+S486,Array,43
+S486,Backtracking,1
+S486,Bit Manipulation,1
+S486,Database,7
+S486,Depth-First Search,2
+S486,Dynamic Programming,3
+S486,Graph,1
+S486,Hash Table,4
+S486,Math,14
+S486,Stack,2
+S486,String,6
+S486,Tree,4
+S486,nan,3
+S487,Array,48
+S487,Backtracking,1
+S487,Database,11
+S487,Depth-First Search,1
+S487,Dynamic Programming,1
+S487,Hash Table,7
+S487,Linked List,1
+S487,Math,16
+S487,String,13
+S487,Tree,1
+S487,Two Pointers,4
+S487,nan,2
+S488,Array,67
+S488,Database,6
+S488,Depth-First Search,1
+S488,Hash Table,6
+S488,Linked List,2
+S488,Math,3
+S488,Stack,1
+S488,String,16
+S488,Tree,3
+S488,Two Pointers,1
+S488,nan,6
+S489,Array,40
+S489,Backtracking,1
+S489,Breadth-First Search,1
+S489,Database,2
+S489,Depth-First Search,1
+S489,Dynamic Programming,1
+S489,Graph,1
+S489,Hash Table,3
+S489,Linked List,5
+S489,Math,12
+S489,Stack,1
+S489,String,8
+S489,Tree,2
+S489,Two Pointers,4
+S489,nan,1
+S490,Array,54
+S490,Concurrency,1
+S490,Database,15
+S490,Design,1
+S490,Hash Table,5
+S490,Math,10
+S490,Stack,1
+S490,String,15
+S490,Tree,6
+S490,Two Pointers,2
+S490,nan,3
+S491,Array,63
+S491,Bit Manipulation,2
+S491,Database,10
+S491,Depth-First Search,1
+S491,Dynamic Programming,1
+S491,Hash Table,8
+S491,Math,11
+S491,Shell,1
+S491,Stack,1
+S491,String,6
+S491,Tree,2
+S491,Two Pointers,1
+S491,Union Find,1
+S491,nan,8
+S492,Array,55
+S492,Binary Search,2
+S492,Database,4
+S492,Dynamic Programming,1
+S492,Hash Table,7
+S492,Linked List,3
+S492,Math,8
+S492,Stack,1
+S492,String,13
+S492,Tree,3
+S492,Two Pointers,1
+S492,nan,2
+S493,Array,60
+S493,Bit Manipulation,4
+S493,Database,9
+S493,Depth-First Search,2
+S493,Dynamic Programming,1
+S493,Graph,1
+S493,Hash Table,9
+S493,Linked List,2
+S493,Math,8
+S493,Stack,2
+S493,String,7
+S493,Tree,1
+S493,Two Pointers,1
+S493,nan,5
+S494,Array,59
+S494,Database,5
+S494,Design,1
+S494,Dynamic Programming,1
+S494,Hash Table,9
+S494,Math,12
+S494,String,10
+S494,Tree,4
+S494,Two Pointers,1
+S494,nan,5
+S495,Array,34
+S495,Concurrency,2
+S495,Database,7
+S495,Depth-First Search,1
+S495,Hash Table,4
+S495,Math,10
+S495,Stack,2
+S495,String,9
+S495,Tree,2
+S495,Two Pointers,1
+S495,nan,1
+S496,Array,43
+S496,Bit Manipulation,1
+S496,Database,12
+S496,Depth-First Search,1
+S496,Design,1
+S496,Dynamic Programming,3
+S496,Graph,1
+S496,Hash Table,5
+S496,Linked List,3
+S496,Math,10
+S496,Shell,1
+S496,String,9
+S496,Tree,3
+S496,nan,5
+S497,Array,39
+S497,Binary Search,1
+S497,Bit Manipulation,1
+S497,Database,7
+S497,Depth-First Search,1
+S497,Dynamic Programming,1
+S497,Hash Table,6
+S497,Math,10
+S497,String,6
+S497,Tree,5
+S497,nan,2
+S498,Array,53
+S498,Binary Search,1
+S498,Bit Manipulation,1
+S498,Database,11
+S498,Depth-First Search,1
+S498,Divide and Conquer,1
+S498,Dynamic Programming,1
+S498,Graph,1
+S498,Hash Table,11
+S498,Linked List,4
+S498,Math,5
+S498,Stack,1
+S498,String,12
+S498,Tree,4
+S498,nan,3
+S499,Array,55
+S499,Backtracking,1
+S499,Binary Search,1
+S499,Concurrency,1
+S499,Database,11
+S499,Depth-First Search,1
+S499,Graph,1
+S499,Hash Table,4
+S499,Math,10
+S499,Stack,1
+S499,String,10
+S499,Tree,3
+S499,Two Pointers,2
+S499,nan,5
+S500,Array,66
+S500,Database,5
+S500,Design,1
+S500,Dynamic Programming,2
+S500,Graph,1
+S500,Hash Table,1
+S500,Linked List,1
+S500,Math,12
+S500,String,10
+S500,Tree,4
+S500,Two Pointers,4
+S500,nan,3
